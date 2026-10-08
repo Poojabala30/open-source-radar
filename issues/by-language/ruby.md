@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 22:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Show user-specific "Latest Updates" after login](https://github.com/openSUSE/open-build-service/issues/10824) 💬 8 | [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) | 1.1k | 🟢 beginner | 2026-10-08 | 🤖 disclose AI use |
-| [Configure default questions by Assistant](https://github.com/AllYourBot/hostedgpt/issues/805) 💬 1 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-10-08 |  |
+| [Show user-specific "Latest Updates" after login](https://github.com/openSUSE/open-build-service/issues/10824) 💬 9 | [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) | 1.1k | 🟢 beginner | 2026-10-08 | 🤖 disclose AI use |
+| [Configure default questions by Assistant](https://github.com/AllYourBot/hostedgpt/issues/805) 💬 1 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-10-08 |  |
 | [Canceling comment edit triggers a JS exception and doesn't cancel](https://github.com/lobsters/lobsters/issues/2215) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-05 |  |
-| [Allow conversations to be "pinned"](https://github.com/AllYourBot/hostedgpt/issues/245) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-10-05 |  |
+| [Allow conversations to be "pinned"](https://github.com/AllYourBot/hostedgpt/issues/245) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-10-05 |  |
 | [Isolated reply comment form allows for two different reply forms.](https://github.com/lobsters/lobsters/issues/2098) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-30 |  |
 | [Mark actions as destructive](https://github.com/avo-hq/avo/issues/2082) 💬 1 | [avo-hq/avo](https://github.com/avo-hq/avo) | 1.8k | 🟡 help wanted | 2026-09-28 | ✍️ CLA |
 | [Add support for Salam](https://github.com/github-linguist/linguist/issues/8206) 💬 3 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-09-25 |  |
@@ -35,9 +35,9 @@
 | [Etc.uname needs a native version](https://github.com/jruby/jruby/issues/2145) 💬 12 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-09-04 |  |
 | [Revisit Style/EmptyCaseCondition?](https://github.com/rubocop/rubocop/issues/8396) 💬 4 | [rubocop/rubocop](https://github.com/rubocop/rubocop) | 12.9k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use |
 | [Oauth2 generated accounts are not added as creators](https://github.com/manyfold3d/manyfold/issues/4768) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-08-29 | 📄 AI policy · ✍️ CLA |
-| [Better handling of super large images](https://github.com/AllYourBot/hostedgpt/issues/142) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-08-29 |  |
-| [Better icon library](https://github.com/AllYourBot/hostedgpt/issues/287) 💬 4 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-08-29 |  |
-| [Confirm that I can set an authentication deleted_at and it logs out that client](https://github.com/AllYourBot/hostedgpt/issues/434) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-08-29 |  |
+| [Better handling of super large images](https://github.com/AllYourBot/hostedgpt/issues/142) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-08-29 |  |
+| [Better icon library](https://github.com/AllYourBot/hostedgpt/issues/287) 💬 4 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-08-29 |  |
+| [Confirm that I can set an authentication deleted_at and it logs out that client](https://github.com/AllYourBot/hostedgpt/issues/434) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 513 | 🟢 beginner | 2026-08-29 |  |
 | [[Feature Request] Dark Mode](https://github.com/endoflife-date/endoflife.date/issues/1187) 💬 10 | [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) | 3.4k | 🟢 beginner | 2026-08-28 |  |
 | [[Request] Generate policy file when using scaffolding](https://github.com/varvet/pundit/issues/735) 💬 5 | [varvet/pundit](https://github.com/varvet/pundit) | 8.5k | 🟢 beginner | 2026-08-15 |  |
 | [Make a performance comparison between replacing Turbolinks (plus rails-ujs) with Turbo and dropping it entirel](https://github.com/consuldemocracy/consuldemocracy/issues/5485) | [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy) | 1.6k | 🟡 help wanted | 2026-08-14 |  |

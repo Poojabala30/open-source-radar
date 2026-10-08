@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**308** open issues (148 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**308** open issues (146 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 22:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Locale formatting issue in CLI](https://github.com/trinodb/trino/issues/31506) | [trinodb/trino](https://github.com/trinodb/trino) | 13.3k | 🟢 beginner | 2026-10-08 | ✍️ CLA |
+| [Support releasing batches in RecordBatchMemoryCounter](https://github.com/apache/datafusion/issues/26140) | [apache/datafusion](https://github.com/apache/datafusion) | 9.4k | 🟡 help wanted | 2026-10-08 | ✍️ CLA |
 | [Resurrecting the MySQL backend](https://github.com/haskell-beam/beam/issues/822) 💬 2 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-10-08 |  |
 | [Printing a renamed table in a nonpublic schema makes queries target a nonexistent relation](https://github.com/diesel-rs/diesel/issues/5277) 💬 2 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-07 | ⚠️ AI restricted |
 | [Cannot filter by an outer column inside EXCEPT](https://github.com/diesel-rs/diesel/issues/5253) 💬 2 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-07 | ⚠️ AI restricted |
@@ -90,6 +90,7 @@
 | [\\echo and \\warn -n problem on interactive](https://github.com/xo/usql/issues/215) 💬 1 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [feature: support vi key bindings (ala readline/bash/psql vi modes)](https://github.com/xo/usql/issues/236) 💬 5 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | ['\\ss' without arguments lists columns for all tables](https://github.com/xo/usql/issues/363) 💬 2 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
+| [Implement privilege related \\d commands](https://github.com/xo/usql/issues/172) | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [积木报表在线填报表单中数据字典不能获取系统中已有数据字典、新增又提示编码已经存在](https://github.com/jeecgboot/jimureport/issues/4797) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.5k | 🟡 help wanted | 2026-09-23 |  |
 | [积木报表横向分组一级标题无法设置分组合计](https://github.com/jeecgboot/jimureport/issues/4796) 💬 1 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.5k | 🟡 help wanted | 2026-09-23 |  |
 | [Unit test stub autogenerator](https://github.com/apache/hamilton/issues/74) 💬 6 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-09-23 | ✍️ CLA |
@@ -203,12 +204,11 @@
 | [REST test against clusters with dedicated master nodes](https://github.com/elastic/elasticsearch/issues/34563) 💬 15 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-08-05 | ✍️ CLA |
 | [在Dbeaver中，不能下载、使用最新驱动](https://github.com/taosdata/TDengine/issues/35396) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-08-04 |  |
 | [MessagePack codec (or VRL functions)](https://github.com/vectordotdev/vector/issues/8675) 💬 4 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-08-03 | 📄 AI policy · ✍️ CLA |
-| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
-| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
-| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
-| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
-| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
-| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
-| [add support for signed data types for TTL](https://github.com/ydb-platform/ydb/issues/12751) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-03 |  |
+| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 8.1k | 🟡 help wanted | 2026-08-03 |  |
+| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 8.1k | 🟡 help wanted | 2026-08-03 |  |
+| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 8.1k | 🟡 help wanted | 2026-08-03 |  |
+| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 8.1k | 🟡 help wanted | 2026-08-03 |  |
+| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 8.1k | 🟡 help wanted | 2026-08-03 |  |
+| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 8.1k | 🟡 help wanted | 2026-08-03 |  |
 
 Showing the 200 most recently updated. See all 308 on the website.

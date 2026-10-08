@@ -1,8 +1,8 @@
 # Security and privacy issues
 
-**207** open issues (105 labeled for beginners) across **56** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
+**209** open issues (108 labeled for beginners) across **56** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
 
-> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 22:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,12 @@
 | --- | --- | ---: | --- | --- | --- |
 | [🚨 Buttons obstruct the view of the text](https://github.com/super-productivity/super-productivity/issues/10544) 💬 4 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟢 beginner | 2026-10-08 |  |
 | [💡 Finish Task As "Won't Do"](https://github.com/super-productivity/super-productivity/issues/7830) 💬 10 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-10-08 |  |
-| [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
+| [Map downloadig dialog appears for a moment](https://github.com/organicmaps/organicmaps/issues/11911) 💬 5 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-10-08 | 🔏 DCO |
+| [Make sure opening hours show proper schedule on selecting another POI](https://github.com/organicmaps/organicmaps/issues/12106) 💬 8 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-10-08 | 🔏 DCO |
+| [DHCPv6 analyzer additions](https://github.com/zeek/zeek/issues/5947) 💬 2 | [zeek/zeek](https://github.com/zeek/zeek) | 8.1k | 🟢 beginner | 2026-10-08 | 🤖 disclose AI use |
+| [GET /v1/component/project/{projectUuid}/dependencyGraph/{componentUuids} rejects multiple \|-separated UUIDs w](https://github.com/DependencyTrack/dependency-track/issues/7626) | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-10-08 | ⚠️ AI restricted · 🔏 DCO |
 | [SSH corruptions with 3.0.13 on AARCH64](https://github.com/openssl/openssl/issues/33072) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
-| [[Bug]: Registration / Privacy Policy Link without Checkbox / German DSVGO](https://github.com/zitadel/zitadel/issues/10130) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-10-07 |  |
-| [DHCPv6 analyzer additions](https://github.com/zeek/zeek/issues/5947) | [zeek/zeek](https://github.com/zeek/zeek) | 8.1k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
+| [[Bug]: Registration / Privacy Policy Link without Checkbox / German DSVGO](https://github.com/zitadel/zitadel/issues/10130) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-10-07 |  |
 | [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 5 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-07 |  |
 | [Proposal: Migrate docs from Material for MkDocs to Zensical](https://github.com/DependencyTrack/dependency-track/issues/7597) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-10-06 | ⚠️ AI restricted · 🔏 DCO |
 | [[Feature]: Add a way to export and import app settings](https://github.com/kitsumed/ShizuCallRecorder/issues/122) 💬 5 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
@@ -118,28 +120,28 @@
 | [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
 | [[android] Add instructions on how to add a missing TTS language](https://github.com/organicmaps/organicmaps/issues/6210) 💬 4 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
 | [Distance to stop in route](https://github.com/organicmaps/organicmaps/issues/10784) 💬 10 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
-| [Visualize if a user is federated or local](https://github.com/zitadel/zitadel/issues/4594) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
-| [General improvements for mobile view](https://github.com/zitadel/zitadel/issues/4834) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
-| [Add/Change authorization behaviour in console](https://github.com/zitadel/zitadel/issues/4952) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
-| [Allow to set "User Info inside ID token" while creating an app](https://github.com/zitadel/zitadel/issues/6351) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
-| ["Multifactor Init Lifetime" should default to 0 when configuring external IdPs](https://github.com/zitadel/zitadel/issues/6595) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
-| [[Bug]: Manager on instance level organization context unclear](https://github.com/zitadel/zitadel/issues/6805) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
-| [Show actual Default URI in Console for Instance and Organizations](https://github.com/zitadel/zitadel/issues/7317) 💬 7 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
-| [Address capitlization inconsistencies in the UI](https://github.com/zitadel/zitadel/issues/7323) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
-| [[Bug]: Zitadel does not honor "Light Mode only" when after user logs in with another browser or in private mod](https://github.com/zitadel/zitadel/issues/7876) 💬 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
-| [Add external IDP id to IDP list](https://github.com/zitadel/zitadel/issues/8134) 💬 13 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
+| [Visualize if a user is federated or local](https://github.com/zitadel/zitadel/issues/4594) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
+| [General improvements for mobile view](https://github.com/zitadel/zitadel/issues/4834) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
+| [Add/Change authorization behaviour in console](https://github.com/zitadel/zitadel/issues/4952) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
+| [Allow to set "User Info inside ID token" while creating an app](https://github.com/zitadel/zitadel/issues/6351) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
+| ["Multifactor Init Lifetime" should default to 0 when configuring external IdPs](https://github.com/zitadel/zitadel/issues/6595) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
+| [[Bug]: Manager on instance level organization context unclear](https://github.com/zitadel/zitadel/issues/6805) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
+| [Show actual Default URI in Console for Instance and Organizations](https://github.com/zitadel/zitadel/issues/7317) 💬 7 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
+| [Address capitlization inconsistencies in the UI](https://github.com/zitadel/zitadel/issues/7323) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
+| [[Bug]: Zitadel does not honor "Light Mode only" when after user logs in with another browser or in private mod](https://github.com/zitadel/zitadel/issues/7876) 💬 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
+| [Add external IDP id to IDP list](https://github.com/zitadel/zitadel/issues/8134) 💬 13 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-30 |  |
 | [Support Fedora](https://github.com/aquasecurity/trivy/issues/121) 💬 21 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38.3k | 🟡 help wanted | 2026-07-29 |  |
-| [Clean up dead code](https://github.com/zitadel/zitadel/issues/10059) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟡 help wanted | 2026-07-29 |  |
-| [[Bug]: Link button is disabled until you enter some valid data, including valid email address](https://github.com/zitadel/zitadel/issues/8824) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
-| [2FA form improvements](https://github.com/zitadel/zitadel/issues/7529) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
-| [[Bug]: Branding, Logo/icon Changed After Page Reload](https://github.com/zitadel/zitadel/issues/7284) 💬 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
-| [[Bug]: (Minor) Pressing Back Button in SSO Flow -&gt; Disabled Login Button](https://github.com/zitadel/zitadel/issues/6847) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
-| [Disable "MULTIFACTOR AUTHENTICATION" in section "Edit Account"](https://github.com/zitadel/zitadel/issues/6655) 💬 4 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
-| [[Bug]: logo not shown on first load](https://github.com/zitadel/zitadel/issues/6484) 💬 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
-| [Optimize the information displayed on the "Device Authorization" page.](https://github.com/zitadel/zitadel/issues/6120) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
-| [[Bug]: New user via external login can delete their IdP link and make their account inaccessible](https://github.com/zitadel/zitadel/issues/6081) 💬 9 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
-| [console: Highlight required fields consistently](https://github.com/zitadel/zitadel/issues/5712) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
-| [Add Org metadata to metadata scope](https://github.com/zitadel/zitadel/issues/4419) 💬 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
+| [Clean up dead code](https://github.com/zitadel/zitadel/issues/10059) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟡 help wanted | 2026-07-29 |  |
+| [[Bug]: Link button is disabled until you enter some valid data, including valid email address](https://github.com/zitadel/zitadel/issues/8824) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
+| [2FA form improvements](https://github.com/zitadel/zitadel/issues/7529) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
+| [[Bug]: Branding, Logo/icon Changed After Page Reload](https://github.com/zitadel/zitadel/issues/7284) 💬 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
+| [[Bug]: (Minor) Pressing Back Button in SSO Flow -&gt; Disabled Login Button](https://github.com/zitadel/zitadel/issues/6847) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
+| [Disable "MULTIFACTOR AUTHENTICATION" in section "Edit Account"](https://github.com/zitadel/zitadel/issues/6655) 💬 4 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
+| [[Bug]: logo not shown on first load](https://github.com/zitadel/zitadel/issues/6484) 💬 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
+| [Optimize the information displayed on the "Device Authorization" page.](https://github.com/zitadel/zitadel/issues/6120) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
+| [[Bug]: New user via external login can delete their IdP link and make their account inaccessible](https://github.com/zitadel/zitadel/issues/6081) 💬 9 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
+| [console: Highlight required fields consistently](https://github.com/zitadel/zitadel/issues/5712) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
+| [Add Org metadata to metadata scope](https://github.com/zitadel/zitadel/issues/4419) 💬 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.3k | 🟢 beginner | 2026-07-29 |  |
 | [gif 动态图打开后不会动态显示](https://github.com/fregie/pho/issues/28) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [可以支援繁體中文嗎?](https://github.com/fregie/pho/issues/76) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
@@ -208,7 +210,5 @@
 | [Define a clear threat model for this project](https://github.com/ungoogled-software/ungoogled-chromium/issues/3287) 💬 4 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-05-05 |  |
 | [hide close button("x") on first half(first tab) of "split view"](https://github.com/ungoogled-software/ungoogled-chromium/issues/3771) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-05-05 |  |
 | [Add moderation contact information or button? (report content feature)](https://github.com/PrivateBin/PrivateBin/issues/674) 💬 8 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟢 beginner | 2026-05-03 | 🤖 disclose AI use |
-| [Towards a centralized vulnerability database for Dependency-Track](https://github.com/DependencyTrack/dependency-track/issues/4122) 💬 14 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-04-29 | ⚠️ AI restricted · 🔏 DCO |
-| [Add Homebrew cask to have a Sniffnet.app in Applications](https://github.com/GyulyVGC/sniffnet/issues/309) 💬 3 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.4k | 🟢 beginner | 2026-04-28 | 🤖 disclose AI use |
 
-Showing the 200 most recently updated. See all 207 on the website.
+Showing the 200 most recently updated. See all 209 on the website.

@@ -1,10 +1,10 @@
 # Scala issues
 
-**30** open issues (16 labeled for beginners) across **17** active Scala projects.
+**29** open issues (15 labeled for beginners) across **17** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 22:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Static content: Add SoftwareApp structured data to /app page](https://github.com/lichess-org/lila/issues/22005) | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-10-08 | 🤖 disclose AI use |
 | [Make user & community blog Atom feeds discoverable](https://github.com/lichess-org/lila/issues/21960) 💬 5 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
 | [Support Typst raw blocks](https://github.com/scalameta/scalafmt/issues/5245) 💬 2 | [scalameta/scalafmt](https://github.com/scalameta/scalafmt) | 1.5k | 🟡 help wanted | 2026-10-06 |  |
 | [[Improvement] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
@@ -37,7 +36,7 @@
 | [[2.x] '@cacheLevel' and '@transient' annotation does not work if local val](https://github.com/sbt/sbt/issues/9162) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA |
 | [clean does not seem to work with java projects](https://github.com/sbt/sbt/issues/7187) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA |
 | [:memo: Publish kyuubi-spark-authz Spark 4.0 binary to Maven Central](https://github.com/apache/kyuubi/issues/7449) 💬 4 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-06-11 | 🤖 disclose AI use · ✍️ CLA |
-| [Scala 3 builds](https://github.com/typelevel/frameless/issues/945) | [typelevel/frameless](https://github.com/typelevel/frameless) | 895 | 🟡 help wanted | 2026-05-25 |  |
+| [Scala 3 builds](https://github.com/typelevel/frameless/issues/945) | [typelevel/frameless](https://github.com/typelevel/frameless) | 896 | 🟡 help wanted | 2026-05-25 |  |
 | [How to Add the suggested constraints to verification run using PySpark ?](https://github.com/awslabs/deequ/issues/383) 💬 2 | [awslabs/deequ](https://github.com/awslabs/deequ) | 3.6k | 🟡 help wanted | 2026-05-06 | ✍️ CLA |
 | [Extending Analyzer](https://github.com/awslabs/deequ/issues/365) 💬 2 | [awslabs/deequ](https://github.com/awslabs/deequ) | 3.6k | 🟡 help wanted | 2026-05-06 | ✍️ CLA |
 | [Improving performance of histogram analyzer on 150 columns](https://github.com/awslabs/deequ/issues/300) 💬 6 | [awslabs/deequ](https://github.com/awslabs/deequ) | 3.6k | 🟡 help wanted | 2026-05-06 | ✍️ CLA |

@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**55** open issues (22 labeled for beginners) across **14** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**53** open issues (21 labeled for beginners) across **14** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 22:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,8 +13,6 @@
 | [[WEB-SDK] - Add Payment Method with Dynamic Field Rendering - BniVa](https://github.com/juspay/hyperswitch/issues/6067) 💬 4 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.3k | 🟢 beginner | 2026-10-08 |  |
 | [[WEB-SDK] - Add Payment Method with Dynamic Field Rendering - Online Banking Poland](https://github.com/juspay/hyperswitch/issues/6079) 💬 5 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.3k | 🟢 beginner | 2026-10-08 |  |
 | [[WEB - SDK] - Add Payment Method with Dynamic Field Rendering - Alfamart](https://github.com/juspay/hyperswitch/issues/6035) 💬 9 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.3k | 🟢 beginner | 2026-10-08 |  |
-| [[Bug]: Can not reopen switch file menu after renaming the file](https://github.com/actualbudget/actual/issues/8793) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.4k | 🟢 beginner | 2026-10-08 | 🤖 disclose AI use |
-| [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [SSH corruptions with 3.0.13 on AARCH64](https://github.com/openssl/openssl/issues/33072) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 5 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-07 |  |
 | [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 2 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 21.9k | 🟢 beginner | 2026-10-06 |  |

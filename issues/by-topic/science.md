@@ -2,7 +2,7 @@
 
 **62** open issues (40 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 22:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -16,12 +16,12 @@
 | [Refactor tile iteration loops to TileElementsView](https://github.com/OpenRCT2/OpenRCT2/issues/27242) 💬 2 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.4k | 🟢 beginner | 2026-10-04 |  |
 | [Write unit tests for RASAero importing](https://github.com/openrocket/openrocket/issues/2136) 💬 2 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.2k | 🟢 beginner | 2026-10-04 | 📄 AI policy |
 | [Report your benchmark results here!](https://github.com/ProjectPhysX/FluidX3D/issues/8) 💬 278 | [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5.3k | 🟡 help wanted | 2026-09-29 |  |
-| [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-28 |  |
+| [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.1k | 🟢 beginner | 2026-09-28 |  |
 | [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315) 💬 3 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
-| [ci: add WebGPU integration tests (e.g. with Deno)](https://github.com/tracel-ai/burn/issues/810) | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-27 |  |
-| [train: hot reloading for faster prototyping](https://github.com/tracel-ai/burn/issues/3571) 💬 2 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-25 |  |
-| [docs: add source links to the API docs hosted on burn.dev](https://github.com/tracel-ai/burn/issues/1244) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-24 |  |
-| [tensor: add sparse tensor support](https://github.com/tracel-ai/burn/issues/846) 💬 12 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-24 |  |
+| [ci: add WebGPU integration tests (e.g. with Deno)](https://github.com/tracel-ai/burn/issues/810) | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.1k | 🟡 help wanted | 2026-09-27 |  |
+| [train: hot reloading for faster prototyping](https://github.com/tracel-ai/burn/issues/3571) 💬 2 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.1k | 🟡 help wanted | 2026-09-25 |  |
+| [docs: add source links to the API docs hosted on burn.dev](https://github.com/tracel-ai/burn/issues/1244) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.1k | 🟢 beginner | 2026-09-24 |  |
+| [tensor: add sparse tensor support](https://github.com/tracel-ai/burn/issues/846) 💬 12 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16.1k | 🟡 help wanted | 2026-09-24 |  |
 | [OpenRocket on Linux - very odd filenames under ~/.java/.userPrefs/OpenRocket/favoritePresets/](https://github.com/openrocket/openrocket/issues/3335) 💬 2 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.2k | 🟢 beginner | 2026-09-19 | 📄 AI policy |
 | [Crash just after loading screen due to 'ERROR: Parameter "tex" is null'](https://github.com/Revolutionary-Games/Thrive/issues/6981) 💬 8 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟡 help wanted | 2026-09-18 |  |
 | [Are predictions on scikit-learn models thread-safe?](https://github.com/scikit-learn/scikit-learn/issues/18530) 💬 9 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.5k | 🟡 help wanted | 2026-09-16 | 🤖 disclose AI use |

@@ -1,10 +1,10 @@
 # PHP issues
 
-**158** open issues (79 labeled for beginners) across **49** active PHP projects.
+**156** open issues (77 labeled for beginners) across **49** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 22:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-08 |  |
 | [Add class_serializer for 'Illuminate\\Http\\Client\\Response'](https://github.com/getsentry/sentry-laravel/issues/1070) 💬 2 | [getsentry/sentry-laravel](https://github.com/getsentry/sentry-laravel) | 1.4k | 🟢 beginner | 2026-10-08 |  |
-| [Add a default limit to the results of the 'occ taskprocessing:list' command](https://github.com/nextcloud/server/issues/65243) | [nextcloud/server](https://github.com/nextcloud/server) | 37k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
-| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-07 |  |
 | [Missing translations for Hungarian (hu)](https://github.com/symfony/symfony/issues/66100) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-07 |  |
 | [Bind Parameters - support '?'](https://github.com/phpmyadmin/phpmyadmin/issues/19259) 💬 2 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 8k | 🟡 help wanted | 2026-10-05 | 🔏 DCO |
 | [Add details about template from which an entry was created](https://github.com/elabftw/elabftw/issues/7520) 💬 2 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-10-05 |  |
@@ -30,13 +29,13 @@
 | [[BUG] RTL needs further improvements](https://github.com/Leantime/leantime/issues/456) 💬 2 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
 | [Move all repo calls from controllers to services](https://github.com/Leantime/leantime/issues/1532) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
 | [Write documentation](https://github.com/Leantime/leantime/issues/1950) 💬 7 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
-| [Change Image Annotation View Width With Panel Width](https://github.com/Submitty/Submitty/issues/13171) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 803 | 🟢 beginner | 2026-10-01 |  |
-| [[Feature:InstructorUI] Improve error / success feedback on course creation](https://github.com/Submitty/Submitty/issues/13178) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 803 | 🟢 beginner | 2026-10-01 |  |
-| [Peer graders should never see grade inquiries](https://github.com/Submitty/Submitty/issues/13355) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 803 | 🟢 beginner | 2026-10-01 |  |
+| [Change Image Annotation View Width With Panel Width](https://github.com/Submitty/Submitty/issues/13171) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-10-01 |  |
+| [[Feature:InstructorUI] Improve error / success feedback on course creation](https://github.com/Submitty/Submitty/issues/13178) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-10-01 |  |
+| [Peer graders should never see grade inquiries](https://github.com/Submitty/Submitty/issues/13355) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-10-01 |  |
 | [Failed locked jobs never clear.](https://github.com/laravel/horizon/issues/1678) 💬 6 | [laravel/horizon](https://github.com/laravel/horizon) | 4.2k | 🟡 help wanted | 2026-09-30 |  |
 | [Current State of Maintenance and Future Direction for Sonata](https://github.com/sonata-project/SonataAdminBundle/issues/8361) 💬 17 | [sonata-project/SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) | 2.1k | 🟡 help wanted | 2026-09-30 |  |
 | [Add usage statistics administration UI](https://github.com/LibreSign/libresign/issues/8936) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use · 🔏 DCO |
-| [Limited Access Grader Grading Access](https://github.com/Submitty/Submitty/issues/13379) 💬 8 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 803 | 🟢 beginner | 2026-09-28 |  |
+| [Limited Access Grader Grading Access](https://github.com/Submitty/Submitty/issues/13379) 💬 8 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-09-28 |  |
 | [Generate an AsyncAPI documentation for the Mercure API.](https://github.com/api-platform/core/issues/4494) 💬 2 | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-09-26 |  |
 | [[Feed problem] Titles are not parsed properly.](https://github.com/FreshRSS/FreshRSS/issues/8162) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.3k | 🟡 help wanted | 2026-09-25 |  |
 | [Direct link to an experiment step from the step list](https://github.com/elabftw/elabftw/issues/7483) 💬 1 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-09-25 |  |
@@ -77,10 +76,10 @@
 | [Missing translations for Czech (cs)](https://github.com/symfony/symfony/issues/64490) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Missing translations for Chinese (zh_TW)](https://github.com/symfony/symfony/issues/66094) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Duplicate conversation created from a single self-addressed email with identical Message-ID (single mailbox, o](https://github.com/freescout-help-desk/freescout/issues/5638) 💬 4 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-09-19 |  |
-| [include name of original author & editor in notification of edited post](https://github.com/Submitty/Submitty/issues/13365) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 803 | 🟢 beginner | 2026-09-18 |  |
+| [include name of original author & editor in notification of edited post](https://github.com/Submitty/Submitty/issues/13365) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-09-18 |  |
 | [Chamilo automatic deployment - Ansible](https://github.com/chamilo/chamilo-lms/issues/2502) 💬 7 | [chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms) | 1k | 🟡 help wanted | 2026-09-17 |  |
-| [editing forum thread to update category](https://github.com/Submitty/Submitty/issues/13366) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 803 | 🟢 beginner | 2026-09-17 |  |
-| [confusions with "my late days/extensions page"](https://github.com/Submitty/Submitty/issues/6068) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 803 | 🟢 beginner | 2026-09-17 |  |
+| [editing forum thread to update category](https://github.com/Submitty/Submitty/issues/13366) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-09-17 |  |
+| [confusions with "my late days/extensions page"](https://github.com/Submitty/Submitty/issues/6068) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-09-17 |  |
 | [schedule:work run artisan relative to current working dir](https://github.com/laravel/framework/issues/56390) 💬 3 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-09-16 |  |
 | [Document need some custom attributes,eg:metadata](https://github.com/LLPhant/LLPhant/issues/313) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
 | [Ollama cloud and webSearch](https://github.com/LLPhant/LLPhant/issues/421) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
@@ -111,7 +110,6 @@
 | [Setup Onboarding Login-Flow (for Enforce 2FA)](https://github.com/WordPress/two-factor/issues/813) 💬 3 | [WordPress/two-factor](https://github.com/WordPress/two-factor) | 823 | 🟡 help wanted | 2026-08-10 | 🤖 disclose AI use |
 | [docker UID/GID environment settings?](https://github.com/FreshRSS/FreshRSS/issues/2400) 💬 6 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.3k | 🟡 help wanted | 2026-08-09 |  |
 | [Scaled instances and the deletion problem](https://github.com/HaschekSolutions/pictshare/issues/80) 💬 8 | [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) | 951 | 🟡 help wanted | 2026-08-09 |  |
-| ['WC_Abstract_Order' does not implement 'get_customer_id()'](https://github.com/woocommerce/woocommerce/issues/30922) 💬 9 | [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | 10.5k | 🟢 beginner | 2026-08-07 | ⚠️ AI restricted |
 | [[Enhancement]: Add timeframe parameters into wc_get_customer_total_spent](https://github.com/woocommerce/woocommerce/issues/32342) 💬 4 | [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | 10.5k | 🟢 beginner | 2026-08-05 | ⚠️ AI restricted |
 | [Email address InlineEdit not working (Contact, Account, ...) in SuiteCRM 7.x](https://github.com/SuiteCRM/SuiteCRM/issues/9762) 💬 10 | [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) | 5.8k | 🟡 help wanted | 2026-08-04 |  |
 | [🚀 \| Support displays on future3](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues/2364) 💬 9 | [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) | 1.8k | 🟡 help wanted | 2026-08-03 |  |

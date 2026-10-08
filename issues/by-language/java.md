@@ -1,10 +1,10 @@
 # Java issues
 
-**260** open issues (98 labeled for beginners) across **76** active Java projects.
+**258** open issues (98 labeled for beginners) across **76** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 22:48 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Removing federated, disabled and read-only user from group fails with read-only error](https://github.com/keycloak/keycloak/issues/53700) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-08 | 🤖 disclose AI use · 🔏 DCO |
 | [bug: worker registration overwrites TaskDef.runtimeMetadata, breaking credential injection after restart](https://github.com/conductor-oss/conductor/issues/1561) 💬 1 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32.3k | 🟢 beginner | 2026-10-08 |  |
-| [Locale formatting issue in CLI](https://github.com/trinodb/trino/issues/31506) | [trinodb/trino](https://github.com/trinodb/trino) | 13.3k | 🟢 beginner | 2026-10-08 | ✍️ CLA |
+| [GET /v1/component/project/{projectUuid}/dependencyGraph/{componentUuids} rejects multiple \|-separated UUIDs w](https://github.com/DependencyTrack/dependency-track/issues/7626) | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-10-08 | ⚠️ AI restricted · 🔏 DCO |
 | [Crash on startup on Android 6.0.1: NullPointerException "Attempt to read from null array" in MainActivity.onCr](https://github.com/TeamNewPipe/NewPipe/issues/13866) 💬 5 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40k | 🟢 beginner | 2026-10-07 | 📄 AI policy |
 | [Create option to enable overide email theme for clients](https://github.com/keycloak/keycloak/issues/8744) 💬 8 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
 | [CIMD: Unbounded persistent client creation via path variation](https://github.com/keycloak/keycloak/issues/50532) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
@@ -22,9 +23,6 @@
 | [Client credentials hashing (encryption / decryption)](https://github.com/keycloak/keycloak/issues/15567) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use · 🔏 DCO |
 | [Proposal: Migrate docs from Material for MkDocs to Zensical](https://github.com/DependencyTrack/dependency-track/issues/7597) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-10-06 | ⚠️ AI restricted · 🔏 DCO |
 | [Listing client roles on a cold realm cache is taking 45s for a customer with many roles](https://github.com/keycloak/keycloak/issues/50900) 💬 3 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
-| [Device authorization user_code verification has no server-side rate limit](https://github.com/keycloak/keycloak/issues/51275) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
-| [Inconsistency in credential label validation between Admin API and Account API](https://github.com/keycloak/keycloak/issues/51440) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
-| [OTPFormAuthenticator succeeds with credential type 'otp', but the terminal LOGIN event does not retain it; Web](https://github.com/keycloak/keycloak/issues/52725) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
 | [[Feature] Support for reading and importing embedded images within cells](https://github.com/apache/fesod/issues/22) 💬 3 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
 | [[Question] Support using Fesod on Android system](https://github.com/apache/fesod/issues/12) 💬 8 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
 | [[Enhancement] Support interface projection exports](https://github.com/apache/fesod/issues/366) 💬 4 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
@@ -165,7 +163,7 @@
 | [Add units option for "Stability margin" in plot dialog](https://github.com/openrocket/openrocket/issues/2221) 💬 11 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.2k | 🟢 beginner | 2026-08-04 | 📄 AI policy |
 | [[Feature Request] Show More Details in Parachute Parts Library](https://github.com/openrocket/openrocket/issues/2487) 💬 2 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.2k | 🟢 beginner | 2026-08-04 | 📄 AI policy |
 | [[Bug] Some component default wall thicknesses are 0](https://github.com/openrocket/openrocket/issues/2454) 💬 4 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.2k | 🟢 beginner | 2026-08-04 | 📄 AI policy |
-| [Support container_name in docker-compose file](https://github.com/testcontainers/testcontainers-java/issues/2472) 💬 15 | [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8.7k | 🟢 beginner | 2026-08-03 |  |
+| [Support container_name in docker-compose file](https://github.com/testcontainers/testcontainers-java/issues/2472) 💬 15 | [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8.8k | 🟢 beginner | 2026-08-03 |  |
 | [缺乏用户管理相关的开放 API](https://github.com/apolloconfig/apollo/issues/5099) 💬 10 | [apolloconfig/apollo](https://github.com/apolloconfig/apollo) | 29.8k | 🟡 help wanted | 2026-08-02 | ✍️ CLA |
 | [Feature: negate condition in verify()](https://github.com/wiremock/wiremock/issues/1892) 💬 2 | [wiremock/wiremock](https://github.com/wiremock/wiremock) | 7.4k | 🟡 help wanted | 2026-08-01 |  |
 | [Support returning HTTP 404 when mapping files aren't found.](https://github.com/wiremock/wiremock/issues/2470) 💬 1 | [wiremock/wiremock](https://github.com/wiremock/wiremock) | 7.4k | 🟡 help wanted | 2026-08-01 |  |
@@ -212,5 +210,7 @@
 | [[Feature]: Sub-agent events are not visible in AG-UI frontend when using 'SubAgentTool' with 'forwardEvents(tr](https://github.com/agentscope-ai/agentscope-java/issues/1046) 💬 1 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.9k | 🟡 help wanted | 2026-06-19 |  |
 | [Error Message Could be Improved for 'http_file'](https://github.com/bazelbuild/bazel/issues/16375) 💬 8 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟢 beginner | 2026-06-16 | ✍️ CLA |
 | [[Feature Request] Analyzers on non-text sub fields](https://github.com/opensearch-project/OpenSearch/issues/11882) 💬 3 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13.8k | 🟡 help wanted | 2026-06-15 | 🔏 DCO |
+| [Set SameSite attribute on session cookie created by the frontend](https://github.com/DependencyTrack/dependency-track/issues/2985) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-06-15 | ⚠️ AI restricted · 🔏 DCO |
+| [pytorch issue ，ModuleDictImpl need mapping void insert(const std::string& key, std::shared_ptr&lt;Module&gt; m](https://github.com/bytedeco/javacpp-presets/issues/1781) 💬 1 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-06-15 |  |
 
-Showing the 200 most recently updated. See all 260 on the website.
+Showing the 200 most recently updated. See all 258 on the website.
