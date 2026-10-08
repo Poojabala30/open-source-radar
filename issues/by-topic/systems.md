@@ -1,8 +1,8 @@
 # Systems and embedded issues
 
-**190** open issues (90 labeled for beginners) across **50** projects tagged with topics like `operating-system`, `embedded`, `kernel`, `rust-lang`, `systems-programming`, `wasm`.
+**192** open issues (90 labeled for beginners) across **50** projects tagged with topics like `operating-system`, `embedded`, `kernel`, `rust-lang`, `systems-programming`, `wasm`.
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,8 +10,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Add command for generating shell completion scripts](https://github.com/smol-machines/smolvm/issues/1595) 💬 1 | [smol-machines/smolvm](https://github.com/smol-machines/smolvm) | 6.6k | 🟡 help wanted | 2026-10-07 |  |
-| [Video Thumbnails Failing to Generate on NextCloud Snap](https://github.com/nextcloud-snap/nextcloud-snap/issues/1327) 💬 60 | [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) | 1.8k | 🟡 help wanted | 2026-10-07 |  |
+| [More Linux distros compatible](https://github.com/rustdesk/rustdesk/issues/3565) 💬 9 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 125.4k | 🟡 help wanted | 2026-10-08 | 🔏 DCO |
+| [Video Thumbnails Failing to Generate on NextCloud Snap](https://github.com/nextcloud-snap/nextcloud-snap/issues/1327) 💬 61 | [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) | 1.8k | 🟡 help wanted | 2026-10-08 |  |
 | [add documentation to build lunatik on-tree using make menuconfig](https://github.com/luainkernel/lunatik/issues/413) | [luainkernel/lunatik](https://github.com/luainkernel/lunatik) | 605 | 🟢 beginner | 2026-10-07 |  |
 | [add a maintainers/contributors section on README.md](https://github.com/luainkernel/lunatik/issues/409) | [luainkernel/lunatik](https://github.com/luainkernel/lunatik) | 605 | 🟢 beginner | 2026-10-07 |  |
 | [Use boxed slices instead of Vec where appropriate](https://github.com/bytecodealliance/wasmtime/issues/5879) 💬 5 | [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) | 18.7k | 🟢 beginner | 2026-10-06 | ⚠️ AI restricted |
@@ -42,9 +42,9 @@
 | [Uno 7 migration guide says Uno.WinUI ships Skia assemblies for net*-android/ios/tvos and gives no library targ](https://github.com/unoplatform/uno/issues/24872) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-01 |  |
 | [Stale ", Uno" assembly name in ApiInformation lookups disables ArrayPool and FrameworkTemplatePool memory mana](https://github.com/unoplatform/uno/issues/24871) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-01 |  |
 | [Uno.Sdk 7.0 compiles a leftover Platforms/MacCatalyst folder into every head except Desktop](https://github.com/unoplatform/uno/issues/24870) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-01 |  |
+| [Audio no sound （Add asio support)](https://github.com/rustdesk/rustdesk/issues/3762) 💬 57 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 125.4k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
 | [Rhai standard library.](https://github.com/rhaiscript/rhai/issues/451) 💬 17 | [rhaiscript/rhai](https://github.com/rhaiscript/rhai) | 5.7k | 🟡 help wanted | 2026-09-29 |  |
 | [Replace 'scanMonitorLookupCaches()' loop with memset](https://github.com/eclipse-openj9/openj9/issues/24803) | [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) | 3.5k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO |
-| [More Linux distros compatible](https://github.com/rustdesk/rustdesk/issues/3565) 💬 9 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 125.4k | 🟡 help wanted | 2026-09-28 | 🔏 DCO |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-28 |  |
 | [ci: add WebGPU integration tests (e.g. with Deno)](https://github.com/tracel-ai/burn/issues/810) | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-27 |  |
 | [[Bug]: uInitrd CRC mismatch in community images for Orange Pi Zero3 (sun50iw9)](https://github.com/armbian/build/issues/10701) 💬 2 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-09-27 |  |
@@ -75,6 +75,7 @@
 | [Rusqlite support](https://github.com/tursodatabase/turso/issues/2784) | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 24.7k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use |
 | [docs: add source links to the API docs hosted on burn.dev](https://github.com/tracel-ai/burn/issues/1244) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-24 |  |
 | [tensor: add sparse tensor support](https://github.com/tracel-ai/burn/issues/846) 💬 12 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-24 |  |
+| [Give movement priority to host rather than client + multiple connections mouse move priority issue](https://github.com/rustdesk/rustdesk/issues/40) 💬 22 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 125.4k | 🟡 help wanted | 2026-09-23 | 🔏 DCO |
 | [Implement AMX support](https://github.com/google/gvisor/issues/9896) 💬 2 | [google/gvisor](https://github.com/google/gvisor) | 19.6k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
 | [Investigate AddressSanitizer-like diagnostics for ThreadX](https://github.com/eclipse-threadx/threadx/issues/764) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.5k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · 🔏 DCO |
 | [Add CanSelect property to MudTreeViewItem](https://github.com/MudBlazor/MudBlazor/issues/11195) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-14 |  |
@@ -116,8 +117,8 @@
 | [Support header sso (Forward Auth)](https://github.com/lldap/lldap/issues/352) 💬 15 | [lldap/lldap](https://github.com/lldap/lldap) | 6.5k | 🟢 beginner | 2026-08-31 |  |
 | [Document meaning of pemWorkDirectory](https://github.com/jetty/jetty.project/issues/12795) 💬 3 | [jetty/jetty.project](https://github.com/jetty/jetty.project) | 4.1k | 🟡 help wanted | 2026-08-31 |  |
 | [Need support for mutually exclusive / multi-way settings](https://github.com/Automattic/harper/issues/2396) 💬 2 | [Automattic/harper](https://github.com/Automattic/harper) | 16.2k | 🟡 help wanted | 2026-08-27 | 🤖 disclose AI use |
-| [Improve Exception Message for Missing Project Metadata Annotation in ResourceContainerImageBuilder.cs](https://github.com/microsoft/aspire/issues/11299) 💬 13 | [microsoft/aspire](https://github.com/microsoft/aspire) | 6.3k | 🟢 beginner | 2026-08-26 |  |
-| [window bun process.env.HOME is undefined](https://github.com/oven-sh/bun/issues/10502) 💬 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96.1k | 🟢 beginner | 2026-08-24 |  |
+| [Improve Exception Message for Missing Project Metadata Annotation in ResourceContainerImageBuilder.cs](https://github.com/microsoft/aspire/issues/11299) 💬 13 | [microsoft/aspire](https://github.com/microsoft/aspire) | 6.4k | 🟢 beginner | 2026-08-26 |  |
+| [window bun process.env.HOME is undefined](https://github.com/oven-sh/bun/issues/10502) 💬 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96.2k | 🟢 beginner | 2026-08-24 |  |
 | [MudSelect should support nullable enums and show placeholder when value is null](https://github.com/MudBlazor/MudBlazor/issues/5647) 💬 2 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-08-23 |  |
 | [Rule Engine (non-core) bugs - Community maintained part.](https://github.com/nanomq/nanomq/issues/2251) 💬 3 | [nanomq/nanomq](https://github.com/nanomq/nanomq) | 2.6k | 🟡 help wanted | 2026-08-21 | 🔏 DCO |
 | [Mask Slow Performance and Inaccurate Input on Blazor Server](https://github.com/MudBlazor/MudBlazor/issues/6280) 💬 8 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-08-20 |  |
@@ -140,7 +141,7 @@
 | [feat(init): add option to have 'dev' dependency-group be in default environment](https://github.com/prefix-dev/pixi/issues/5906) 💬 10 | [prefix-dev/pixi](https://github.com/prefix-dev/pixi) | 7.8k | 🟢 beginner | 2026-08-07 | 🤖 disclose AI use |
 | [MudDatePicker: Text gets deleted after each key stroke with Mask inside MudForm](https://github.com/MudBlazor/MudBlazor/issues/4047) 💬 24 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-08-06 |  |
 | [Autogenerated manifest docs](https://github.com/prefix-dev/pixi/issues/3021) 💬 4 | [prefix-dev/pixi](https://github.com/prefix-dev/pixi) | 7.8k | 🟢 beginner | 2026-08-05 | 🤖 disclose AI use |
-| [Implement case-changing utility methods](https://github.com/oven-sh/bun/issues/15087) 💬 17 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96.1k | 🟢 beginner | 2026-08-04 |  |
+| [Implement case-changing utility methods](https://github.com/oven-sh/bun/issues/15087) 💬 17 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96.2k | 🟢 beginner | 2026-08-04 |  |
 | [在Dbeaver中，不能下载、使用最新驱动](https://github.com/taosdata/TDengine/issues/35396) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-08-04 |  |
 | [MessagePack codec (or VRL functions)](https://github.com/vectordotdev/vector/issues/8675) 💬 4 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-08-03 | 📄 AI policy · ✍️ CLA |
 | [Add drag and drop functionality to TreeView](https://github.com/MudBlazor/MudBlazor/issues/5987) 💬 16 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-08-03 |  |
@@ -178,6 +179,7 @@
 | [Use host apt proxy configuration](https://github.com/canonical/multipass/issues/818) 💬 5 | [canonical/multipass](https://github.com/canonical/multipass) | 9.3k | 🟢 beginner | 2026-06-15 | ✍️ CLA |
 | [Instrument function calls to debug-log arguments and return values](https://github.com/canonical/multipass/issues/428) 💬 5 | [canonical/multipass](https://github.com/canonical/multipass) | 9.3k | 🟢 beginner | 2026-06-15 | ✍️ CLA |
 | [Update Syslog source to accept non UTF-8 encoding in syslog message](https://github.com/vectordotdev/vector/issues/20462) 💬 9 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-06-12 | 📄 AI policy · ✍️ CLA |
+| [Extra Mouse Button and left/right wheel issues (Linux not ready yet, because of flutter bug)](https://github.com/rustdesk/rustdesk/issues/1169) 💬 15 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 125.4k | 🟡 help wanted | 2026-06-10 | 🔏 DCO |
 | [Migrate opnsense from DeviceScanner to ScannerEntity](https://github.com/home-assistant/core/issues/143032) 💬 2 | [home-assistant/core](https://github.com/home-assistant/core) | 91.3k | 🟡 help wanted | 2026-06-04 | ⚠️ AI restricted |
 | [Can emqx cluster provide a docker swarm mode demo? Currently only the single-machine cluster deployed in docke](https://github.com/emqx/emqx/issues/6002) 💬 2 | [emqx/emqx](https://github.com/emqx/emqx) | 16.8k | 🟡 help wanted | 2026-06-04 |  |
 | [Time formats in sinks should be derived from events](https://github.com/vectordotdev/vector/issues/1743) 💬 4 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-06-01 | 📄 AI policy · ✍️ CLA |

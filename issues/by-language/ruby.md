@@ -1,10 +1,10 @@
 # Ruby issues
 
-**83** open issues (61 labeled for beginners) across **29** active Ruby projects.
+**82** open issues (60 labeled for beginners) across **29** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,14 +12,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Show user-specific "Latest Updates" after login](https://github.com/openSUSE/open-build-service/issues/10824) 💬 7 | [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) | 1.1k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
+| [Show user-specific "Latest Updates" after login](https://github.com/openSUSE/open-build-service/issues/10824) 💬 8 | [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) | 1.1k | 🟢 beginner | 2026-10-08 | 🤖 disclose AI use |
+| [Configure default questions by Assistant](https://github.com/AllYourBot/hostedgpt/issues/805) 💬 1 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-10-08 |  |
 | [Canceling comment edit triggers a JS exception and doesn't cancel](https://github.com/lobsters/lobsters/issues/2215) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-10-05 |  |
 | [Allow conversations to be "pinned"](https://github.com/AllYourBot/hostedgpt/issues/245) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-10-05 |  |
 | [Isolated reply comment form allows for two different reply forms.](https://github.com/lobsters/lobsters/issues/2098) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.9k | 🟢 beginner | 2026-09-30 |  |
-| [Test link on API Services and Language Models broken](https://github.com/AllYourBot/hostedgpt/issues/810) 💬 2 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-09-30 |  |
 | [Mark actions as destructive](https://github.com/avo-hq/avo/issues/2082) 💬 1 | [avo-hq/avo](https://github.com/avo-hq/avo) | 1.8k | 🟡 help wanted | 2026-09-28 | ✍️ CLA |
 | [Add support for Salam](https://github.com/github-linguist/linguist/issues/8206) 💬 3 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-09-25 |  |
-| [Configure default questions by Assistant](https://github.com/AllYourBot/hostedgpt/issues/805) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-09-25 |  |
 | [[CW-2868] Integration for Microsoft Teams](https://github.com/chatwoot/chatwoot/issues/1655) 💬 12 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37.6k | 🟢 beginner | 2026-09-19 |  |
 | [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 6 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37.6k | 🟢 beginner | 2026-09-19 |  |
 | [Python: implement full-unlock so security updates can bump a parent to fix a vulnerable transitive dependency](https://github.com/dependabot/dependabot-core/issues/16337) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-09-18 |  |

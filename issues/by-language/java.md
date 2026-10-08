@@ -1,10 +1,10 @@
 # Java issues
 
-**258** open issues (97 labeled for beginners) across **75** active Java projects.
+**260** open issues (98 labeled for beginners) across **76** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [bug: worker registration overwrites TaskDef.runtimeMetadata, breaking credential injection after restart](https://github.com/conductor-oss/conductor/issues/1561) 💬 1 | [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 32.3k | 🟢 beginner | 2026-10-08 |  |
+| [Locale formatting issue in CLI](https://github.com/trinodb/trino/issues/31506) | [trinodb/trino](https://github.com/trinodb/trino) | 13.3k | 🟢 beginner | 2026-10-08 | ✍️ CLA |
 | [Crash on startup on Android 6.0.1: NullPointerException "Attempt to read from null array" in MainActivity.onCr](https://github.com/TeamNewPipe/NewPipe/issues/13866) 💬 5 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40k | 🟢 beginner | 2026-10-07 | 📄 AI policy |
 | [Create option to enable overide email theme for clients](https://github.com/keycloak/keycloak/issues/8744) 💬 8 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
 | [CIMD: Unbounded persistent client creation via path variation](https://github.com/keycloak/keycloak/issues/50532) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
@@ -23,29 +25,28 @@
 | [Device authorization user_code verification has no server-side rate limit](https://github.com/keycloak/keycloak/issues/51275) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
 | [Inconsistency in credential label validation between Admin API and Account API](https://github.com/keycloak/keycloak/issues/51440) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
 | [OTPFormAuthenticator succeeds with credential type 'otp', but the terminal LOGIN event does not retain it; Web](https://github.com/keycloak/keycloak/issues/52725) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
-| [[Feature] Support for reading and importing embedded images within cells](https://github.com/apache/fesod/issues/22) 💬 3 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Question] Support using Fesod on Android system](https://github.com/apache/fesod/issues/12) 💬 8 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Enhancement] Support interface projection exports](https://github.com/apache/fesod/issues/366) 💬 4 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Bug] Invalid cell range error when filling Excel template](https://github.com/apache/fesod/issues/331) 💬 7 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Enhancement] Supports setting the style for Excel exports using a combination of annotations](https://github.com/apache/fesod/issues/296) 💬 2 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Bug] Template fill fails to replace nested placeholder values correctly](https://github.com/apache/fesod/issues/295) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Enhancement] Support annotation-based dictionary conversion](https://github.com/apache/fesod/issues/198) 💬 6 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Bug] Fill behavior is not preserved for formula cells in a row](https://github.com/apache/fesod/issues/199) 💬 2 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Feature] Add an official starter package](https://github.com/apache/fesod/issues/196) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Feature] Add Support for Setting a Custom Font Directory](https://github.com/apache/fesod/issues/189) 💬 2 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Feature] Request an API to get cell styles](https://github.com/apache/fesod/issues/157) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Enhancement] Reduce memory usage of withTemplate method for large Excel templates](https://github.com/apache/fesod/issues/185) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Feature] Verify the compliance of the fields during the import process](https://github.com/apache/fesod/issues/177) 💬 7 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Feature] Support nested annotation processing for object-type fields](https://github.com/apache/fesod/issues/164) 💬 3 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Feature] Add one-to-many import and export support](https://github.com/apache/fesod/issues/114) 💬 4 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Feature] Supports writing in append mode](https://github.com/apache/fesod/issues/147) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Feature] Add a method to export tree structure](https://github.com/apache/fesod/issues/83) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Feature] Add internationalization (i18n) support](https://github.com/apache/fesod/issues/57) 💬 6 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [[Enhancement] Add streaming or append writing support](https://github.com/apache/fesod/issues/163) 💬 2 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Support for reading and importing embedded images within cells](https://github.com/apache/fesod/issues/22) 💬 3 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Question] Support using Fesod on Android system](https://github.com/apache/fesod/issues/12) 💬 8 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Enhancement] Support interface projection exports](https://github.com/apache/fesod/issues/366) 💬 4 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Bug] Invalid cell range error when filling Excel template](https://github.com/apache/fesod/issues/331) 💬 7 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Enhancement] Supports setting the style for Excel exports using a combination of annotations](https://github.com/apache/fesod/issues/296) 💬 2 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Bug] Template fill fails to replace nested placeholder values correctly](https://github.com/apache/fesod/issues/295) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Enhancement] Support annotation-based dictionary conversion](https://github.com/apache/fesod/issues/198) 💬 6 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Bug] Fill behavior is not preserved for formula cells in a row](https://github.com/apache/fesod/issues/199) 💬 2 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Add an official starter package](https://github.com/apache/fesod/issues/196) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Add Support for Setting a Custom Font Directory](https://github.com/apache/fesod/issues/189) 💬 2 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Request an API to get cell styles](https://github.com/apache/fesod/issues/157) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Enhancement] Reduce memory usage of withTemplate method for large Excel templates](https://github.com/apache/fesod/issues/185) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Verify the compliance of the fields during the import process](https://github.com/apache/fesod/issues/177) 💬 7 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Support nested annotation processing for object-type fields](https://github.com/apache/fesod/issues/164) 💬 3 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Add one-to-many import and export support](https://github.com/apache/fesod/issues/114) 💬 4 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Supports writing in append mode](https://github.com/apache/fesod/issues/147) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Add a method to export tree structure](https://github.com/apache/fesod/issues/83) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Feature] Add internationalization (i18n) support](https://github.com/apache/fesod/issues/57) 💬 6 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
+| [[Enhancement] Add streaming or append writing support](https://github.com/apache/fesod/issues/163) 💬 2 | [apache/fesod](https://github.com/apache/fesod) | 6.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
 | [Handle braced initializers with const member values](https://github.com/bytedeco/javacpp/issues/808) 💬 5 | [bytedeco/javacpp](https://github.com/bytedeco/javacpp) | 4.7k | 🟡 help wanted | 2026-10-05 |  |
 | [Write unit tests for RASAero importing](https://github.com/openrocket/openrocket/issues/2136) 💬 2 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.2k | 🟢 beginner | 2026-10-04 | 📄 AI policy |
 | [C++ recompilation is too sensitive to preprocessor-only changes](https://github.com/bazelbuild/bazel/issues/18246) 💬 6 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-10-02 | ✍️ CLA |
-| [In "export full logs", write the AntennaPod version to the exported file](https://github.com/AntennaPod/AntennaPod/issues/8739) 💬 3 | [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) | 8.2k | 🟢 beginner | 2026-10-02 |  |
 | [could javapp-pytorch support "torch::jit::export_onnx"](https://github.com/bytedeco/javacpp-presets/issues/1811) | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-10-02 |  |
 | [Duplicate --config=foo produces a seemingly pointless warning](https://github.com/bazelbuild/bazel/issues/11592) 💬 8 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
 | [broker.conf documentation : wrong tokenSecretKey base64 inline description](https://github.com/apache/pulsar/issues/10584) 💬 3 | [apache/pulsar](https://github.com/apache/pulsar) | 15.3k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted · ✍️ CLA |
@@ -123,7 +124,7 @@
 | ["Error loading feed" message reappears when rotating the screen even after selecting Cancel](https://github.com/TeamNewPipe/NewPipe/issues/8474) 💬 3 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40k | 🟡 help wanted | 2026-08-27 | 📄 AI policy |
 | [系统WebView问题，请在该issue下留言讨论。](https://github.com/Justson/AgentWeb/issues/219) 💬 21 | [Justson/AgentWeb](https://github.com/Justson/AgentWeb) | 9.4k | 🟡 help wanted | 2026-08-27 |  |
 | [网站里的图画错了？](https://github.com/jeecgboot/JeecgBoot/issues/9857) 💬 1 | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48.1k | 🟡 help wanted | 2026-08-26 |  |
-| [[Feature Request]:](https://github.com/yuliskov/SmartTube/issues/4603) 💬 7 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 34.6k | 🟡 help wanted | 2026-08-26 |  |
+| [[Feature Request]:](https://github.com/yuliskov/SmartTube/issues/4603) 💬 7 | [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 34.7k | 🟡 help wanted | 2026-08-26 |  |
 | [Command line to Export ER Diagrams](https://github.com/dbeaver/dbeaver/issues/6215) 💬 7 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use |
 | [Show/Don't hide feed items when updating feed](https://github.com/TeamNewPipe/NewPipe/issues/4952) 💬 5 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 40k | 🟡 help wanted | 2026-08-25 | 📄 AI policy |
 | [Enhance SoapDecoder by using Content Type from Response as Mime Type](https://github.com/OpenFeign/feign/issues/1732) 💬 3 | [OpenFeign/feign](https://github.com/OpenFeign/feign) | 9.8k | 🟡 help wanted | 2026-08-24 |  |
@@ -194,6 +195,7 @@
 | [[JENKINS-42816] Agent terminology cleanup](https://github.com/jenkinsci/jenkins/issues/21944) 💬 9 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26.6k | 🟡 help wanted | 2026-07-08 | ✍️ CLA |
 | [Improve UX for beginner users](https://github.com/Col-E/Recaf/issues/230) | [Col-E/Recaf](https://github.com/Col-E/Recaf) | 7.4k | 🟡 help wanted | 2026-07-08 |  |
 | [Disable colors in logs](https://github.com/tchiotludo/akhq/issues/917) 💬 9 | [tchiotludo/akhq](https://github.com/tchiotludo/akhq) | 3.9k | 🟢 beginner | 2026-07-08 |  |
+| [Consider expanding the HttpClient to support a query parameter and fragment builders.](https://github.com/reactor/reactor-netty/issues/753) 💬 5 | [reactor/reactor-netty](https://github.com/reactor/reactor-netty) | 2.8k | 🟡 help wanted | 2026-07-07 |  |
 | [runtime_type_check DoFn wrapper doesn't call setup and teardown](https://github.com/apache/beam/issues/20059) 💬 6 | [apache/beam](https://github.com/apache/beam) | 8.7k | 🟢 beginner | 2026-07-05 | ✍️ CLA |
 | [python typehints: reduce the number of runtime-type-check wrappers](https://github.com/apache/beam/issues/20226) 💬 4 | [apache/beam](https://github.com/apache/beam) | 8.7k | 🟢 beginner | 2026-07-02 | ✍️ CLA |
 | [Hide health status timeline per partition in a row](https://github.com/camunda/camunda/issues/29579) 💬 1 | [camunda/camunda](https://github.com/camunda/camunda) | 4.3k | 🟢 beginner | 2026-07-01 | ✍️ CLA |
@@ -210,7 +212,5 @@
 | [[Feature]: Sub-agent events are not visible in AG-UI frontend when using 'SubAgentTool' with 'forwardEvents(tr](https://github.com/agentscope-ai/agentscope-java/issues/1046) 💬 1 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.9k | 🟡 help wanted | 2026-06-19 |  |
 | [Error Message Could be Improved for 'http_file'](https://github.com/bazelbuild/bazel/issues/16375) 💬 8 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟢 beginner | 2026-06-16 | ✍️ CLA |
 | [[Feature Request] Analyzers on non-text sub fields](https://github.com/opensearch-project/OpenSearch/issues/11882) 💬 3 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13.8k | 🟡 help wanted | 2026-06-15 | 🔏 DCO |
-| [Set SameSite attribute on session cookie created by the frontend](https://github.com/DependencyTrack/dependency-track/issues/2985) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-06-15 | ⚠️ AI restricted · 🔏 DCO |
-| [pytorch issue ，ModuleDictImpl need mapping void insert(const std::string& key, std::shared_ptr&lt;Module&gt; m](https://github.com/bytedeco/javacpp-presets/issues/1781) 💬 1 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-06-15 |  |
 
-Showing the 200 most recently updated. See all 258 on the website.
+Showing the 200 most recently updated. See all 260 on the website.

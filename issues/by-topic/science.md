@@ -2,7 +2,7 @@
 
 **62** open issues (40 labeled for beginners) across **19** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -55,7 +55,7 @@
 | [Add notification of excluded WWTT objects](https://github.com/OpenRCT2/OpenRCT2/issues/8031) 💬 2 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.4k | 🟢 beginner | 2026-07-20 |  |
 | [GenericUnivariateSelect has silly defaults](https://github.com/scikit-learn/scikit-learn/issues/6346) 💬 5 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.5k | 🟡 help wanted | 2026-07-18 | 🤖 disclose AI use |
 | [Society center can be built above the ground](https://github.com/Revolutionary-Games/Thrive/issues/7073) 💬 2 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟢 beginner | 2026-07-15 |  |
-| [Provide interpolation function 'f(x, y)' for user-driven postprocessing of results](https://github.com/trixi-framework/Trixi.jl/issues/1291) 💬 4 | [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 735 | 🟢 beginner | 2026-07-13 | 🤖 disclose AI use · 🔏 DCO |
+| [Provide interpolation function 'f(x, y)' for user-driven postprocessing of results](https://github.com/trixi-framework/Trixi.jl/issues/1291) 💬 4 | [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 736 | 🟢 beginner | 2026-07-13 | 🤖 disclose AI use · 🔏 DCO |
 | [Implement '@formula' support in 'Kriging' model](https://github.com/JuliaEarth/GeoStats.jl/issues/573) 💬 2 | [JuliaEarth/GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) | 591 | 🟡 help wanted | 2026-07-04 |  |
 | [clockTrackedDataSource tracks non-clock dataSources](https://github.com/CesiumGS/cesium/issues/11738) 💬 2 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-07-02 | ✍️ CLA |
 | [providing sample weights to glm.fit() and glm.fit.sparse()](https://github.com/tensorflow/probability/issues/252) 💬 1 | [tensorflow/probability](https://github.com/tensorflow/probability) | 4.4k | 🟢 beginner | 2026-06-22 | ✍️ CLA |

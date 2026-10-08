@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**307** open issues (147 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**308** open issues (148 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Locale formatting issue in CLI](https://github.com/trinodb/trino/issues/31506) | [trinodb/trino](https://github.com/trinodb/trino) | 13.3k | 🟢 beginner | 2026-10-08 | ✍️ CLA |
+| [Resurrecting the MySQL backend](https://github.com/haskell-beam/beam/issues/822) 💬 2 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-10-08 |  |
 | [Printing a renamed table in a nonpublic schema makes queries target a nonexistent relation](https://github.com/diesel-rs/diesel/issues/5277) 💬 2 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-07 | ⚠️ AI restricted |
 | [Cannot filter by an outer column inside EXCEPT](https://github.com/diesel-rs/diesel/issues/5253) 💬 2 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-07 | ⚠️ AI restricted |
 | [Replace the current continuous benchmarking action with our own.](https://github.com/paradedb/paradedb/issues/5013) 💬 5 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.4k | 🟢 beginner | 2026-10-07 | ✍️ CLA |
@@ -51,6 +53,7 @@
 | [Convert 'Past 5m...' dropdowns to duration selector](https://github.com/influxdata/influxdb/issues/18119) 💬 5 | [influxdata/influxdb](https://github.com/influxdata/influxdb) | 31.8k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [Expose incremental reindexing in python and node](https://github.com/lancedb/lancedb/issues/685) 💬 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11.6k | 🟢 beginner | 2026-09-30 |  |
 | [end-to-end tests for ioredis and dragonfly](https://github.com/dragonflydb/dragonfly/issues/383) 💬 7 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | 31.8k | 🟢 beginner | 2026-09-29 | ✍️ CLA · 🔏 DCO |
+| [Declare ctid uniqueness and non-null system column constraints to DataFusion](https://github.com/paradedb/paradedb/issues/6505) 💬 3 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.4k | 🟢 beginner | 2026-09-29 | ✍️ CLA |
 | [[Improvement] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
 | [Search - Use the same words for criteria in "Products search" and in the product page (and edition page)](https://github.com/openfoodfacts/openfoodfacts-server/issues/17) 💬 1 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [BUG: views not adhering to sort order in view definition](https://github.com/beekeeper-studio/beekeeper-studio/issues/1521) 💬 10 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | 23.7k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
@@ -100,7 +103,6 @@
 | [Feature: Don't clone values by default when retrieving values](https://github.com/surrealdb/surrealdb/issues/26) | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 33.1k | 🟡 help wanted | 2026-09-16 |  |
 | [Feature: Daemon Mode](https://github.com/surrealdb/surrealdb/issues/3953) 💬 4 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 33.1k | 🟢 beginner | 2026-09-16 |  |
 | [Feature: Support more formats for latitude and longitude](https://github.com/surrealdb/surrealdb/issues/98) 💬 10 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 33.1k | 🟢 beginner | 2026-09-16 |  |
-| [Feature: Encryption at transit TiKV](https://github.com/surrealdb/surrealdb/issues/2167) 💬 13 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 33.1k | 🟢 beginner | 2026-09-16 |  |
 | [Remove V1 API](https://github.com/paradedb/paradedb/issues/4391) 💬 14 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.4k | 🟢 beginner | 2026-09-15 | ✍️ CLA |
 | [Log axis limits "auto" doesn't work on histogram](https://github.com/grafana/grafana/issues/13027) 💬 12 | [grafana/grafana](https://github.com/grafana/grafana) | 77.1k | 🟡 help wanted | 2026-09-14 | ✍️ CLA |
 | [postgres/sqlalchemy display of timestamptz loses my local timezone](https://github.com/marimo-team/marimo/issues/6250) 💬 10 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23.1k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · ✍️ CLA |
@@ -145,11 +147,11 @@
 | [Support for PowerPC 'ppc64le' architecture](https://github.com/qdrant/qdrant/issues/3940) 💬 2 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [Flacky 'test_parallel_graph_build' on Windows](https://github.com/qdrant/qdrant/issues/1452) 💬 2 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [Refresh CHYT benchmark results](https://github.com/ClickHouse/ClickBench/issues/1459) | [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) | 1.1k | 🟡 help wanted | 2026-09-03 |  |
-| [Style Issues caused by RTL](https://github.com/directus/directus/issues/25599) 💬 6 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
-| [Item permissions rules filter - '_in' operator with dynamic variable of array type](https://github.com/directus/directus/issues/24395) 💬 2 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
-| [Packages using memory even if they are not used](https://github.com/directus/directus/issues/24334) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
-| ['_some' operator limited to top-level relations prevents complex nested filtering](https://github.com/directus/directus/issues/25403) 💬 7 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
-| [M2A Relation Display Not Showing Properly](https://github.com/directus/directus/issues/25348) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
+| [Style Issues caused by RTL](https://github.com/directus/directus/issues/25599) 💬 6 | [directus/directus](https://github.com/directus/directus) | 38.3k | 🟡 help wanted | 2026-09-02 |  |
+| [Item permissions rules filter - '_in' operator with dynamic variable of array type](https://github.com/directus/directus/issues/24395) 💬 2 | [directus/directus](https://github.com/directus/directus) | 38.3k | 🟡 help wanted | 2026-09-02 |  |
+| [Packages using memory even if they are not used](https://github.com/directus/directus/issues/24334) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.3k | 🟡 help wanted | 2026-09-02 |  |
+| ['_some' operator limited to top-level relations prevents complex nested filtering](https://github.com/directus/directus/issues/25403) 💬 7 | [directus/directus](https://github.com/directus/directus) | 38.3k | 🟡 help wanted | 2026-09-02 |  |
+| [M2A Relation Display Not Showing Properly](https://github.com/directus/directus/issues/25348) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.3k | 🟡 help wanted | 2026-09-02 |  |
 | [Alternative query result format other than []dict](https://github.com/googleapis/mcp-toolbox/issues/1537) 💬 6 | [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | 16.6k | 🟡 help wanted | 2026-09-02 | ✍️ CLA |
 | [Improve logging for circuit breakers](https://github.com/elastic/elasticsearch/issues/62452) 💬 11 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
 | [Firebase Support](https://github.com/typeorm/typeorm/issues/2769) 💬 9 | [typeorm/typeorm](https://github.com/typeorm/typeorm) | 36.7k | 🟢 beginner | 2026-09-01 |  |
@@ -168,7 +170,7 @@
 | [Major lack of documentation in codebase](https://github.com/meilisearch/meilisearch/issues/3206) 💬 7 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 59.5k | 🟢 beginner | 2026-08-25 | 🤖 disclose AI use |
 | [Command line to Export ER Diagrams](https://github.com/dbeaver/dbeaver/issues/6215) 💬 7 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use |
 | [Show only insights not included in any dashboard](https://github.com/PostHog/posthog/issues/26621) 💬 10 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40.2k | 🟢 beginner | 2026-08-25 | ⚠️ AI restricted |
-| [[Ideas Wanted] Generically accepting a &Pool or &mut Connection and allowing the argument to be used more than](https://github.com/transact-rs/sqlx/issues/419) 💬 21 | [transact-rs/sqlx](https://github.com/transact-rs/sqlx) | 17.5k | 🟡 help wanted | 2026-08-24 |  |
+| [[Ideas Wanted] Generically accepting a &Pool or &mut Connection and allowing the argument to be used more than](https://github.com/transact-rs/sqlx/issues/419) 💬 21 | [transact-rs/sqlx](https://github.com/transact-rs/sqlx) | 17.6k | 🟡 help wanted | 2026-08-24 |  |
 | [[BUG] backup fails with —trx-table](https://github.com/mydumper/mydumper/issues/2301) 💬 13 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-08-24 |  |
 | [Support for greek locale](https://github.com/dbeaver/dbeaver/issues/7932) 💬 4 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52k | 🟡 help wanted | 2026-08-21 | 🤖 disclose AI use |
 | [Bug: In Cohorts, the 'set' operator filters in null values for person properties](https://github.com/PostHog/posthog/issues/29916) 💬 4 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40.2k | 🟢 beginner | 2026-08-21 | ⚠️ AI restricted |
@@ -201,14 +203,12 @@
 | [REST test against clusters with dedicated master nodes](https://github.com/elastic/elasticsearch/issues/34563) 💬 15 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-08-05 | ✍️ CLA |
 | [在Dbeaver中，不能下载、使用最新驱动](https://github.com/taosdata/TDengine/issues/35396) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-08-04 |  |
 | [MessagePack codec (or VRL functions)](https://github.com/vectordotdev/vector/issues/8675) 💬 4 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-08-03 | 📄 AI policy · ✍️ CLA |
-| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
-| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
-| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
-| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
-| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
-| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
+| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
+| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
+| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
+| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
+| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
+| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.9k | 🟡 help wanted | 2026-08-03 |  |
 | [add support for signed data types for TTL](https://github.com/ydb-platform/ydb/issues/12751) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-03 |  |
-| [Group MCP tools by read and write/ delete](https://github.com/PostHog/posthog/issues/76236) 💬 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40.2k | 🟢 beginner | 2026-08-02 | ⚠️ AI restricted |
-| [TMemoryLimitException should be inherited from std::exception](https://github.com/ydb-platform/ydb/issues/2887) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-02 |  |
 
-Showing the 200 most recently updated. See all 307 on the website.
+Showing the 200 most recently updated. See all 308 on the website.

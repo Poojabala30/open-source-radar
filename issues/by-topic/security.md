@@ -1,8 +1,8 @@
 # Security and privacy issues
 
-**206** open issues (104 labeled for beginners) across **56** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
+**207** open issues (105 labeled for beginners) across **56** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [🚨 Buttons obstruct the view of the text](https://github.com/super-productivity/super-productivity/issues/10544) 💬 4 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟢 beginner | 2026-10-08 |  |
+| [💡 Finish Task As "Won't Do"](https://github.com/super-productivity/super-productivity/issues/7830) 💬 10 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-10-08 |  |
 | [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [SSH corruptions with 3.0.13 on AARCH64](https://github.com/openssl/openssl/issues/33072) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug]: Registration / Privacy Policy Link without Checkbox / German DSVGO](https://github.com/zitadel/zitadel/issues/10130) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-10-07 |  |
@@ -37,7 +39,7 @@
 | [💡 Sailfish OS native client](https://github.com/super-productivity/super-productivity/issues/10187) 💬 4 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-09-30 |  |
 | [Please don't open issues about adding settings for very small behavior changes](https://github.com/libre-tube/LibreTube/issues/8465) 💬 34 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 12.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Bypassing Zeek's file extraction processor by twisting Content-Type](https://github.com/zeek/zeek/issues/1799) 💬 5 | [zeek/zeek](https://github.com/zeek/zeek) | 8.1k | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use |
-| [Operation request: Protocol Data Unit (PDU) encoder/decoder](https://github.com/gchq/CyberChef/issues/256) 💬 8 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
+| [Operation request: Protocol Data Unit (PDU) encoder/decoder](https://github.com/gchq/CyberChef/issues/256) 💬 8 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
 | [💡 Ended Working - Export to CSV](https://github.com/super-productivity/super-productivity/issues/6932) 💬 4 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-09-29 |  |
 | [Update Electron to avoid slow app on MacOS Tahoe](https://github.com/super-productivity/super-productivity/issues/5712) 💬 7 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-09-28 |  |
 | [🚨 Add or give option to show both scheduled date and deadline in Kanbanboard and Eisenhauermatrix](https://github.com/super-productivity/super-productivity/issues/10097) 💬 2 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-09-28 |  |
@@ -47,7 +49,6 @@
 | [Feature: Self-hosted sync server](https://github.com/simonoppowa/OpenNutriTracker/issues/79) 💬 5 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟡 help wanted | 2026-09-27 |  |
 | [Submit OpenNutriTracker to the F-Droid repository](https://github.com/simonoppowa/OpenNutriTracker/issues/575) 💬 4 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟢 beginner | 2026-09-27 |  |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
-| [💡 Add a folder option to the board project filter](https://github.com/super-productivity/super-productivity/issues/8615) 💬 2 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-09-26 |  |
 | [[Feature]: Add LADB / Direct Wireless Debugging backend option](https://github.com/kitsumed/ShizuCallRecorder/issues/97) 💬 2 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-09-25 | 🤖 disclose AI use |
 | [please support Chinese](https://github.com/LeanBitLab/LeanType/issues/235) 💬 6 | [LeanBitLab/LeanType](https://github.com/LeanBitLab/LeanType) | 1k | 🟡 help wanted | 2026-09-23 |  |
 | [With external engine, getting DHE copy parameter's failure.](https://github.com/openssl/openssl/issues/23137) 💬 12 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-21 | 🤖 disclose AI use · ✍️ CLA |
@@ -143,7 +144,7 @@
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [可以支援繁體中文嗎?](https://github.com/fregie/pho/issues/76) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [Emulation check for CVE-2026-24061 – GNU InetUtils telnetd Authentication Bypass Vulnerability](https://github.com/e-m-b-a/emba/issues/1905) 💬 1 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3.7k | 🟢 beginner | 2026-07-23 |  |
-| [Feature request: Automatically scroll down for highlighted matches on large output data](https://github.com/gchq/CyberChef/issues/1386) 💬 2 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · ✍️ CLA |
+| [Feature request: Automatically scroll down for highlighted matches on large output data](https://github.com/gchq/CyberChef/issues/1386) 💬 2 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36.1k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · ✍️ CLA |
 | [Support Falco running with sandboxed runtimes](https://github.com/falcosecurity/falco/issues/1413) 💬 59 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | 9.5k | 🟡 help wanted | 2026-07-21 |  |
 | [Debug persistent tracing - '-t' flag](https://github.com/rizinorg/rizin/issues/765) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-07-21 | 🤖 disclose AI use |
 | [Replace .qjz9zk "TLD" with the specification compliant .invalid TLD for domain substitution](https://github.com/ungoogled-software/ungoogled-chromium/issues/3878) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-07-20 |  |
@@ -173,7 +174,7 @@
 | [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
 | [Specifying only Group Name and Version will not match VulnerableSoftware using the Internal Analyzer.](https://github.com/DependencyTrack/dependency-track/issues/2984) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-06-13 | ⚠️ AI restricted · 🔏 DCO |
 | [[3.x-migration] ApiController](https://github.com/MISP/MISP/issues/9382) 💬 2 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-12 | ✍️ CLA |
-| [FR: Add support for Synology RT2600 series routers and SRM platform](https://github.com/tailscale/tailscale/issues/5455) 💬 23 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 37.2k | 🟡 help wanted | 2026-06-10 | 🔏 DCO |
+| [FR: Add support for Synology RT2600 series routers and SRM platform](https://github.com/tailscale/tailscale/issues/5455) 💬 23 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 37.3k | 🟡 help wanted | 2026-06-10 | 🔏 DCO |
 | [Windows 7 API Extensions (VxKex)](https://github.com/ungoogled-software/ungoogled-chromium/issues/3811) 💬 2 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-06-10 |  |
 | [Enhance footer to include link to privacy policy](https://github.com/MISP/MISP/issues/3438) 💬 4 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-09 | ✍️ CLA |
 | [[Feature] MV2 Bypass in Chrome 151.X+](https://github.com/ungoogled-software/ungoogled-chromium/issues/3812) 💬 1 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-06-08 |  |
@@ -209,6 +210,5 @@
 | [Add moderation contact information or button? (report content feature)](https://github.com/PrivateBin/PrivateBin/issues/674) 💬 8 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟢 beginner | 2026-05-03 | 🤖 disclose AI use |
 | [Towards a centralized vulnerability database for Dependency-Track](https://github.com/DependencyTrack/dependency-track/issues/4122) 💬 14 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-04-29 | ⚠️ AI restricted · 🔏 DCO |
 | [Add Homebrew cask to have a Sniffnet.app in Applications](https://github.com/GyulyVGC/sniffnet/issues/309) 💬 3 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.4k | 🟢 beginner | 2026-04-28 | 🤖 disclose AI use |
-| [FR: Add Ubuntu Change Logs for Updates](https://github.com/tailscale/tailscale/issues/314) 💬 5 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 37.2k | 🟢 beginner | 2026-04-28 | 🔏 DCO |
 
-Showing the 200 most recently updated. See all 206 on the website.
+Showing the 200 most recently updated. See all 207 on the website.

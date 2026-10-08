@@ -1,10 +1,10 @@
 # Vue issues
 
-**32** open issues (21 labeled for beginners) across **12** active Vue projects.
+**31** open issues (21 labeled for beginners) across **11** active Vue projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -43,4 +43,3 @@
 | [Email signature cannot be templated](https://github.com/frappe/helpdesk/issues/3397) 💬 4 | [frappe/helpdesk](https://github.com/frappe/helpdesk) | 3.4k | 🟢 beginner | 2026-05-29 |  |
 | [[Feature Request]: Filters of the same type should not share state](https://github.com/VueTorrent/VueTorrent/issues/1996) 💬 4 | [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | 7k | 🟢 beginner | 2026-04-25 |  |
 | [[Chinese] translate new guides](https://github.com/nuxt/website-v2/issues/547) 💬 9 | [nuxt/website-v2](https://github.com/nuxt/website-v2) | 2.2k | 🟢 beginner | 2026-04-24 |  |
-| [[Enhancement] Android TV Support](https://github.com/advplyr/audiobookshelf-app/issues/606) 💬 30 | [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) | 2.8k | 🟡 help wanted | 2026-04-11 |  |

@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -27,15 +27,15 @@
 | [Allow disable generating full mobile navigation tree](https://github.com/imfing/hextra/issues/275) 💬 1 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-09-15 |  |
 | [输入 【介绍一下html-anything】，导出html单文件出现错误 1. 第一页只展示一半 2. 左右键不起作用 3. 从第二页开始都是黑底空白页 4. 。。。。。。](https://github.com/nexu-io/html-anything/issues/152) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9k | 🟡 help wanted | 2026-09-14 | ✍️ CLA |
 | [[Initiative]: Scale and performance testing guidance](https://github.com/cncf/toc/issues/2233) 💬 4 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-09-14 |  |
-| [[feat] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 570 | 🟡 help wanted | 2026-09-14 |  |
+| [[feat] no new X chat dm sending?](https://github.com/nirholas/XActions/issues/37) 💬 4 | [nirholas/XActions](https://github.com/nirholas/XActions) | 571 | 🟡 help wanted | 2026-09-14 |  |
 | [[🚀 Feature]: Fixing Accessibility Issues On Selenium Website](https://github.com/SeleniumHQ/seleniumhq.github.io/issues/2486) 💬 6 | [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) | 1.4k | 🟡 help wanted | 2026-09-11 |  |
 | [switch cutout for back body plate doesn't fit switch](https://github.com/nasa-jpl/open-source-rover/issues/499) 💬 2 | [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9.7k | 🟡 help wanted | 2026-09-10 |  |
 | [Headscale with reverse proxy Zoraxy not working because allegedly WebSockets are not passing through](https://github.com/tobychui/zoraxy/issues/1012) 💬 9 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-09-09 |  |
 | [(1.37) Move resource managers page to new section](https://github.com/kubernetes/website/issues/56615) 💬 4 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-09-09 |  |
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 782 | 🟢 beginner | 2026-09-08 |  |
 | [Translation needed for existing languages](https://github.com/sumn2u/learn-javascript/issues/346) 💬 2 | [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) | 1.1k | 🟢 beginner | 2026-08-29 |  |
-| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 581 | 🟢 beginner | 2026-08-27 |  |
-| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 581 | 🟢 beginner | 2026-08-25 |  |
+| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 585 | 🟢 beginner | 2026-08-27 |  |
+| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 585 | 🟢 beginner | 2026-08-25 |  |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use |
 | [addTagOnEnter setting](https://github.com/yairEO/tagify/issues/1500) 💬 5 | [yairEO/tagify](https://github.com/yairEO/tagify) | 3.9k | 🟡 help wanted | 2026-08-17 |  |
 | [[HELP] Access control by Cloudflare IPs](https://github.com/tobychui/zoraxy/issues/761) 💬 7 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-08-16 |  |
@@ -48,7 +48,7 @@
 | [[FEATURE]Allow a custom download directory instead of the browser's default Downloads folder](https://github.com/EltonChou/TwitterMediaHarvest/issues/344) 💬 3 | [EltonChou/TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) | 1.2k | 🟡 help wanted | 2026-08-06 |  |
 | [feat: implement pi-rpc protocol for Pi agent](https://github.com/nexu-io/html-anything/issues/130) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9k | 🟡 help wanted | 2026-07-27 | ✍️ CLA |
 | [[🚀 Feature]: Rewriting Webdriver &gt; Elements &gt; Finders to Not Use HTML Snippet](https://github.com/SeleniumHQ/seleniumhq.github.io/issues/2037) 💬 8 | [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) | 1.4k | 🟢 beginner | 2026-07-27 |  |
-| [有对参与开源项目感兴趣的朋友吗，组个wx群](https://github.com/PKUFlyingPig/cs-self-learning/issues/347) 💬 49 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 76k | 🟡 help wanted | 2026-07-25 |  |
+| [有对参与开源项目感兴趣的朋友吗，组个wx群](https://github.com/PKUFlyingPig/cs-self-learning/issues/347) 💬 49 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 76.1k | 🟡 help wanted | 2026-07-25 |  |
 | [emojipedia is redistributing our emojis as stickers](https://github.com/hfg-gmuend/openmoji/issues/552) 💬 1 | [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) | 4.6k | 🟡 help wanted | 2026-07-24 |  |
 | ["Comparison to average values of products in the same category" is unclear](https://github.com/openfoodfacts/openfoodfacts-server/issues/2497) 💬 9 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-07-23 | 🤖 disclose AI use |
 | [Feature request: If CSS display:none causes failure, pull it into code snip.](https://github.com/dequelabs/axe-core/issues/598) 💬 5 | [dequelabs/axe-core](https://github.com/dequelabs/axe-core) | 7.6k | 🟡 help wanted | 2026-07-21 | ✍️ CLA |
@@ -58,7 +58,7 @@
 | [Allow favicons in formats other than svg](https://github.com/imfing/hextra/issues/888) 💬 2 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-07-13 |  |
 | [Translate content into Korean](https://github.com/HTTPArchive/almanac.httparchive.org/issues/926) 💬 14 | [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) | 691 | 🟢 beginner | 2026-07-05 |  |
 | [Translate content into Polish](https://github.com/HTTPArchive/almanac.httparchive.org/issues/1043) 💬 8 | [HTTPArchive/almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) | 691 | 🟢 beginner | 2026-07-05 |  |
-| [solved](https://github.com/PKUFlyingPig/cs-self-learning/issues/423) 💬 2 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 76k | 🟡 help wanted | 2026-06-28 |  |
+| [solved](https://github.com/PKUFlyingPig/cs-self-learning/issues/423) 💬 2 | [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 76.1k | 🟡 help wanted | 2026-06-28 |  |
 | [NEW DESIGN - We should try to avoid a blank when JavaScript is disabled](https://github.com/openfoodfacts/openfoodfacts-server/issues/7504) 💬 3 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-06-28 | 🤖 disclose AI use |
 | [NEW DESIGN - We should try to display cards when JavaScript is disabled](https://github.com/openfoodfacts/openfoodfacts-server/issues/7503) 💬 3 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-06-28 | 🤖 disclose AI use |
 | ["determine the value of a named property" should not imply a new object each time](https://github.com/whatwg/html/issues/5266) 💬 13 | [whatwg/html](https://github.com/whatwg/html) | 9.4k | 🟢 beginner | 2026-06-26 |  |

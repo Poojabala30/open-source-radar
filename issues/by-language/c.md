@@ -1,10 +1,10 @@
 # C issues
 
-**153** open issues (39 labeled for beginners) across **62** active C projects.
+**154** open issues (39 labeled for beginners) across **62** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Using Dunst with Gnome-Shell](https://github.com/dunst-project/dunst/issues/857) 💬 17 | [dunst-project/dunst](https://github.com/dunst-project/dunst) | 5.6k | 🟡 help wanted | 2026-10-08 | 🤖 disclose AI use |
 | [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [SSH corruptions with 3.0.13 on AARCH64](https://github.com/openssl/openssl/issues/33072) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [resource access monitor / tracing doc and current recommendations](https://github.com/sandboxie-plus/Sandboxie/issues/1915) 💬 4 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | 19.6k | 🟡 help wanted | 2026-10-07 |  |
@@ -37,7 +38,7 @@
 | [Large test input file distributed with latest 3.0/3.5 releases](https://github.com/openssl/openssl/issues/32603) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 |  |
-| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 40.3k | 🟡 help wanted | 2026-09-27 |  |
+| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 40.4k | 🟡 help wanted | 2026-09-27 |  |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 |  |
@@ -55,7 +56,7 @@
 | [Suppress Warnings From libpng](https://github.com/php/php-src/issues/23674) 💬 2 | [php/php-src](https://github.com/php/php-src) | 40.4k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 42 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-16 |  |
 | [Add support for '_NET_WM_FRAME_DRAWN'](https://github.com/yshui/picom/issues/910) 💬 2 | [yshui/picom](https://github.com/yshui/picom) | 4.8k | 🟡 help wanted | 2026-09-11 |  |
-| [分享一下我解决进不去里站的方法](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/issues/96) 💬 55 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 27.5k | 🟡 help wanted | 2026-09-10 |  |
+| [分享一下我解决进不去里站的方法](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/issues/96) 💬 55 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 27.6k | 🟡 help wanted | 2026-09-10 |  |
 | [Add SMP support for Armv8-R (Cortex-R52 / Cortex-R82)](https://github.com/eclipse-threadx/threadx/issues/710) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.5k | 🟡 help wanted | 2026-09-09 | 🤖 disclose AI use · 🔏 DCO |
 | [Change Audio Output with Hotkey](https://github.com/microsoft/PowerToys/issues/4964) 💬 73 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.3k | 🟡 help wanted | 2026-09-08 |  |
 | [Request for Guidance on GPL Compliance and Source Code Release – YUNZII Tri-Mode Boards](https://github.com/qmk/qmk_firmware/issues/25737) 💬 24 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-08 |  |
@@ -95,7 +96,7 @@
 | [[Bug] Keyboard works when connected to laptop, but not through dock (modelh, thinkpad thunderbolt 3 workstatio](https://github.com/qmk/qmk_firmware/issues/23825) 💬 7 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-08-01 |  |
 | [gadgets: Run local tests on cri-o too](https://github.com/inspektor-gadget/inspektor-gadget/issues/3175) 💬 3 | [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2.9k | 🟢 beginner | 2026-08-01 |  |
 | [gadgets/profile_cuda: Add missing documentation Guide section](https://github.com/inspektor-gadget/inspektor-gadget/issues/5630) 💬 1 | [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2.9k | 🟢 beginner | 2026-08-01 |  |
-| [Is there like a native C Library?](https://github.com/containers/bubblewrap/issues/626) 💬 5 | [containers/bubblewrap](https://github.com/containers/bubblewrap) | 8.9k | 🟡 help wanted | 2026-07-30 |  |
+| [Is there like a native C Library?](https://github.com/containers/bubblewrap/issues/626) 💬 5 | [containers/bubblewrap](https://github.com/containers/bubblewrap) | 9k | 🟡 help wanted | 2026-07-30 |  |
 | [[RFC] Lack of support for types none, exn and noexn.](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/4814) | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-07-30 |  |
 | [RFC: Use the target_features section to verify compatibility](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/4569) 💬 2 | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-07-30 |  |
 | [[Bug] splitkb/halcyon/elora/rev2 fails to compile](https://github.com/qmk/qmk_firmware/issues/26365) 💬 3 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-07-28 |  |

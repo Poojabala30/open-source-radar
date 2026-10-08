@@ -2,7 +2,7 @@
 
 **151** open issues (77 labeled for beginners) across **50** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
 
-> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-08 12:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,10 +10,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [How to get the current directory from a session](https://github.com/alacritty/alacritty/issues/8885) 💬 7 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟢 beginner | 2026-10-08 |  |
+| [Static content: Add SoftwareApp structured data to /app page](https://github.com/lichess-org/lila/issues/22005) | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-10-08 | 🤖 disclose AI use |
 | [Preferences: Material page has two nested vertical scrollbars](https://github.com/FreeCAD/FreeCAD/issues/15696) 💬 7 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34k | 🟡 help wanted | 2026-10-07 | ⚠️ AI restricted |
 | [Toast widget](https://github.com/iced-rs/iced/issues/485) 💬 6 | [iced-rs/iced](https://github.com/iced-rs/iced) | 31.7k | 🟢 beginner | 2026-10-07 |  |
 | [Make user & community blog Atom feeds discoverable](https://github.com/lichess-org/lila/issues/21960) 💬 5 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
-| [HTML bug: Puzzle theme selector descriptions missing](https://github.com/lichess-org/lila/issues/21988) 💬 1 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
 | [Rotate-only interaction mode](https://github.com/f3d-app/f3d/issues/3538) 💬 7 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use |
 | [Minimal screenshot does not hide notifications and console badge](https://github.com/f3d-app/f3d/issues/3541) 💬 1 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use |
 | [RFC: Feature - Allow double-click to adopt new policy branch](https://github.com/yairm210/Unciv/issues/15719) | [yairm210/Unciv](https://github.com/yairm210/Unciv) | 11.4k | 🟡 help wanted | 2026-10-06 |  |
@@ -101,7 +102,6 @@
 | [Wine via homebrew on MacOS is being removed on 2026-09-01](https://github.com/MonoGame/MonoGame/issues/9424) 💬 4 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14.5k | 🟡 help wanted | 2026-07-13 | ⚠️ AI restricted |
 | [Ability to disable HDR rendering](https://github.com/FyroxEngine/Fyrox/issues/703) 💬 1 | [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) | 9.6k | 🟢 beginner | 2026-07-10 |  |
 | [Problem with semaphore and validation layer when using multi viewports.](https://github.com/ocornut/imgui/issues/9349) 💬 3 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.5k | 🟡 help wanted | 2026-07-09 | ✍️ CLA |
-| [How to get the current directory from a session](https://github.com/alacritty/alacritty/issues/8885) 💬 5 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟢 beginner | 2026-07-08 |  |
 | [[PAID BOUNTY][LOCKED] MonoGame 2D advanced series - Networking](https://github.com/MonoGame/MonoGame/issues/8821) 💬 2 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14.5k | 🟡 help wanted | 2026-07-08 | ⚠️ AI restricted |
 | [Custom fins don't have a crafting recipe](https://github.com/CleverRaven/Cataclysm-DDA/issues/69652) 💬 3 | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | 13.3k | 🟢 beginner | 2026-07-06 |  |
 | [Investigate Windows 10 1607-1703 subpar d3d9 performance](https://github.com/elishacloud/dxwrapper/issues/164) 💬 6 | [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) | 2k | 🟡 help wanted | 2026-07-06 |  |
@@ -124,13 +124,13 @@
 | [Values in property sliders getting tied to mouse position](https://github.com/GraphiteEditor/Graphite/issues/4231) 💬 8 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 27.5k | 🟡 help wanted | 2026-06-14 | 📄 AI policy |
 | [Backends should not need two passes to handle wrapped functions](https://github.com/gfx-rs/wgpu/issues/7106) 💬 3 | [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) | 18.2k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
 | [[io] Separate Drives, Partitions and Block Devices](https://github.com/Vita3K/Vita3K/issues/137) | [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) | 5.8k | 🟢 beginner | 2026-06-13 |  |
-| [Add Tetrahedron shape to Collision Object](https://github.com/defold/defold/issues/5260) 💬 1 | [defold/defold](https://github.com/defold/defold) | 6.3k | 🟢 beginner | 2026-06-11 | ✍️ CLA |
-| [Console output line highlight](https://github.com/defold/defold/issues/11232) | [defold/defold](https://github.com/defold/defold) | 6.3k | 🟢 beginner | 2026-06-11 | ✍️ CLA |
+| [Add Tetrahedron shape to Collision Object](https://github.com/defold/defold/issues/5260) 💬 1 | [defold/defold](https://github.com/defold/defold) | 6.4k | 🟢 beginner | 2026-06-11 | ✍️ CLA |
+| [Console output line highlight](https://github.com/defold/defold/issues/11232) | [defold/defold](https://github.com/defold/defold) | 6.4k | 🟢 beginner | 2026-06-11 | ✍️ CLA |
 | [Add Gradients for Fill and Strokes](https://github.com/processing/p5.js/issues/7313) 💬 7 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-06-10 | ⚠️ AI restricted |
-| [Comparison of arbitrary length vectors (DEF-3119)](https://github.com/defold/defold/issues/3737) 💬 6 | [defold/defold](https://github.com/defold/defold) | 6.3k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
-| [Add helper function url.to_key() to allow for insertion into tables.](https://github.com/defold/defold/issues/4955) 💬 3 | [defold/defold](https://github.com/defold/defold) | 6.3k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
-| [Improve HTTP cache options](https://github.com/defold/defold/issues/5687) 💬 4 | [defold/defold](https://github.com/defold/defold) | 6.3k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
-| [Improve UX for configuring external code editor](https://github.com/defold/defold/issues/8016) 💬 7 | [defold/defold](https://github.com/defold/defold) | 6.3k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
+| [Comparison of arbitrary length vectors (DEF-3119)](https://github.com/defold/defold/issues/3737) 💬 6 | [defold/defold](https://github.com/defold/defold) | 6.4k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
+| [Add helper function url.to_key() to allow for insertion into tables.](https://github.com/defold/defold/issues/4955) 💬 3 | [defold/defold](https://github.com/defold/defold) | 6.4k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
+| [Improve HTTP cache options](https://github.com/defold/defold/issues/5687) 💬 4 | [defold/defold](https://github.com/defold/defold) | 6.4k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
+| [Improve UX for configuring external code editor](https://github.com/defold/defold/issues/8016) 💬 7 | [defold/defold](https://github.com/defold/defold) | 6.4k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
 | [[Wiki] [Docs] [Editor] Please provide documentation on "using the in-game Scenario Editor"](https://github.com/wesnoth/wesnoth/issues/5700) 💬 12 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-06-09 |  |
 | [Mac OS: kitty doesn't restore](https://github.com/kovidgoyal/kitty/issues/1197) 💬 22 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | 35.2k | 🟡 help wanted | 2026-06-07 |  |
 | [On window minimize Screen.resize(0,0) called on Windows but not on Linux](https://github.com/libgdx/libgdx/issues/7072) 💬 8 | [libgdx/libgdx](https://github.com/libgdx/libgdx) | 25.4k | 🟢 beginner | 2026-06-04 | ✍️ CLA |
