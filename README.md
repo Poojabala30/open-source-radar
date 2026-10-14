@@ -21,11 +21,11 @@ Found it useful? A star helps other newcomers find the radar.
 ## Right now on the radar
 
 <!-- RADAR:STATS:START -->
-**3,389** open issues · **1,285** labeled for beginners · **1,169** active projects · updated 2026-10-08 22:48 UTC
+**3,327** open issues · **1,266** labeled for beginners · **1,159** active projects · updated 2026-10-13 22:43 UTC
 
-**Languages:** [C++](issues/by-language/cpp.md) (361) · [Go](issues/by-language/go.md) (335) · [C#](issues/by-language/csharp.md) (309) · [Rust](issues/by-language/rust.md) (295) · [TypeScript](issues/by-language/typescript.md) (275) · [Java](issues/by-language/java.md) (258) · [Python](issues/by-language/python.md) (244) · [Kotlin](issues/by-language/kotlin.md) (172) · [PHP](issues/by-language/php.md) (156) · [C](issues/by-language/c.md) (152) · [JavaScript](issues/by-language/javascript.md) (147) · [Shell](issues/by-language/shell.md) (120) · [all languages](issues/README.md#by-language)
+**Languages:** [Go](issues/by-language/go.md) (340) · [C++](issues/by-language/cpp.md) (338) · [C#](issues/by-language/csharp.md) (305) · [TypeScript](issues/by-language/typescript.md) (289) · [Rust](issues/by-language/rust.md) (282) · [Java](issues/by-language/java.md) (268) · [Python](issues/by-language/python.md) (222) · [Kotlin](issues/by-language/kotlin.md) (168) · [PHP](issues/by-language/php.md) (156) · [C](issues/by-language/c.md) (151) · [JavaScript](issues/by-language/javascript.md) (143) · [Shell](issues/by-language/shell.md) (123) · [all languages](issues/README.md#by-language)
 
-**Topics:** [Mobile and desktop apps](issues/by-topic/mobile.md) (606) · [Cloud, DevOps and infrastructure](issues/by-topic/cloud-devops.md) (487) · [Developer tools](issues/by-topic/devtools.md) (400) · [AI and machine learning](issues/by-topic/ai-ml.md) (394) · [Data and databases](issues/by-topic/data.md) (308) · [Web development](issues/by-topic/web.md) (254) · [Security and privacy](issues/by-topic/security.md) (209) · [Systems and embedded](issues/by-topic/systems.md) (191) · [Games and graphics](issues/by-topic/games-graphics.md) (161) · [Documentation and education](issues/by-topic/docs-education.md) (82) · [Science and research](issues/by-topic/science.md) (62) · [Finance and Web3](issues/by-topic/finance-web3.md) (53) · [Robotics](issues/by-topic/robotics.md) (7)
+**Topics:** [Mobile and desktop apps](issues/by-topic/mobile.md) (583) · [Cloud, DevOps and infrastructure](issues/by-topic/cloud-devops.md) (488) · [AI and machine learning](issues/by-topic/ai-ml.md) (396) · [Developer tools](issues/by-topic/devtools.md) (371) · [Data and databases](issues/by-topic/data.md) (301) · [Web development](issues/by-topic/web.md) (243) · [Security and privacy](issues/by-topic/security.md) (206) · [Systems and embedded](issues/by-topic/systems.md) (187) · [Games and graphics](issues/by-topic/games-graphics.md) (154) · [Documentation and education](issues/by-topic/docs-education.md) (101) · [Science and research](issues/by-topic/science.md) (59) · [Finance and Web3](issues/by-topic/finance-web3.md) (50) · [Accessibility](issues/by-topic/accessibility.md) (13) · [Robotics](issues/by-topic/robotics.md) (7)
 <!-- RADAR:STATS:END -->
 
 ## Why this exists
@@ -66,7 +66,7 @@ Open Source Radar fixes the first part with data and the second part with a guid
 8. [Reviews, feedback and rejection](guide/08-reviews.md)
 9. [Keep going](guide/09-keep-going.md)
 
-Plus a [glossary](guide/glossary.md) and [quickstarts for 14 languages](languages/README.md).
+Plus a [glossary](guide/glossary.md) and [quickstarts for 21 languages](languages/README.md).
 
 ## How issues are selected
 
@@ -133,6 +133,24 @@ Thank you to everyone who has made the radar better:
 - [@Anchal-jpg](https://github.com/Anchal-jpg): the Lua quickstart ([#66](https://github.com/TanbirRamim/open-source-radar/pull/66))
 - [@raveniqe](https://github.com/raveniqe): the topic RSS link on the website ([#67](https://github.com/TanbirRamim/open-source-radar/pull/67))
 - [@tilakraj-hub](https://github.com/tilakraj-hub): the Shell quickstart ([#64](https://github.com/TanbirRamim/open-source-radar/pull/64))
+- [@Poojabala30](https://github.com/Poojabala30): the Erlang quickstart ([#70](https://github.com/TanbirRamim/open-source-radar/pull/70))
+- [@saniya-malik](https://github.com/saniya-malik): the R quickstart ([#72](https://github.com/TanbirRamim/open-source-radar/pull/72))
+- [@VatsalRaina01](https://github.com/VatsalRaina01): the Hindi translation of chapter 7 ([#86](https://github.com/TanbirRamim/open-source-radar/pull/86))
+- [@avent18](https://github.com/avent18): the last activity filter on the website ([#88](https://github.com/TanbirRamim/open-source-radar/pull/88))
+- [@Adarsh2345](https://github.com/Adarsh2345): RSS feed docs and a Python example for the data ([#90](https://github.com/TanbirRamim/open-source-radar/pull/90))
+- [@yunaremaia](https://github.com/yunaremaia): tests for the discovery queries and chunking ([#92](https://github.com/TanbirRamim/open-source-radar/pull/92))
+- [@Pratham2511](https://github.com/Pratham2511): tests for linked PR state parsing ([#94](https://github.com/TanbirRamim/open-source-radar/pull/94))
+- [@anmol-96](https://github.com/anmol-96): tests for notes_for and issue_table, which found a link-breaking truncation bug ([#96](https://github.com/TanbirRamim/open-source-radar/pull/96))
+- [@sh-i-z](https://github.com/sh-i-z): the accessibility topic ([#99](https://github.com/TanbirRamim/open-source-radar/pull/99)) and tests for the README stats block ([#102](https://github.com/TanbirRamim/open-source-radar/pull/102))
+- [@PUSHPAK-JAISWAL](https://github.com/PUSHPAK-JAISWAL): tests for the JSON helpers ([#106](https://github.com/TanbirRamim/open-source-radar/pull/106))
+- [@contputer0x0](https://github.com/contputer0x0): contributing guide links and filter on the website ([#109](https://github.com/TanbirRamim/open-source-radar/pull/109))
+- [@MohdZaid001](https://github.com/MohdZaid001): escaped brackets in issue titles and M/B star counts ([#114](https://github.com/TanbirRamim/open-source-radar/pull/114))
+- [@shivangmathur2008-stack](https://github.com/shivangmathur2008-stack): contributing guide links in the issue tables ([#115](https://github.com/TanbirRamim/open-source-radar/pull/115))
+- [@08abhinav](https://github.com/08abhinav): Hindi translation of chapter 8 ([#122](https://github.com/TanbirRamim/open-source-radar/pull/122))
+- [@qiaobochi040726-source](https://github.com/qiaobochi040726-source): tests for the date and GraphQL string helpers ([#123](https://github.com/TanbirRamim/open-source-radar/pull/123))
+- [@TejasDharmale](https://github.com/TejasDharmale): tests for markdown escaping ([#128](https://github.com/TanbirRamim/open-source-radar/pull/128))
+- [@asxxb](https://github.com/asxxb): Zig quickstart ([#127](https://github.com/TanbirRamim/open-source-radar/pull/127))
+- [@feyzasagman](https://github.com/feyzasagman): better claim detection ([#126](https://github.com/TanbirRamim/open-source-radar/pull/126))
 
 Your name goes here with your first merged pull request. And if the radar helped you, please give it a star: it's the simplest way to help other newcomers find it.
 

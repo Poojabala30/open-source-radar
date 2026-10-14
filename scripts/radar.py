@@ -46,11 +46,10 @@ ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 USER_AGENT = "open-source-radar (+https://github.com/TanbirRamim/open-source-radar)"
 
 # Files that describe how a project accepts contributions, in lookup order.
+# Lookup order for the contributing guide. site/assets/app.js keeps the same list (tested).
+CONTRIBUTING_FILES = ["CONTRIBUTING.md", ".github/CONTRIBUTING.md", "docs/CONTRIBUTING.md", "CONTRIBUTING.rst"]
 POLICY_FILES = [
-    "CONTRIBUTING.md",
-    ".github/CONTRIBUTING.md",
-    "docs/CONTRIBUTING.md",
-    "CONTRIBUTING.rst",
+    *CONTRIBUTING_FILES,
     "AI_POLICY.md",
     ".github/AI_POLICY.md",
     "AGENTS.md",
@@ -299,10 +298,15 @@ def linked_pr_states(issue: dict[str, Any]) -> list[str]:
 
 
 CLAIM_PATTERN = re.compile(
+    r"\b(?:can|could|may) i give (?:(?:it|this|the issue) a try|a try)\b|"
     r"\b(?:can|could|may) i (?:work on|take|pick up|tackle|handle|try)\b|"
     r"\bi(?:'d| would) (?:like|love) to (?:work on|take|pick up|tackle|try)\b|"
     r"\bi(?:'ll| will| want to| wanna| can) (?:work on|take|pick up|tackle|handle)\b|"
     r"\bi(?:'m| am) (?:currently )?working on (?:this|it)\b|"
+    r"\bi(?:'m| am) interested (?:to (?:work on|take|pick up|tackle|handle)|"
+    r"in (?:working on|taking|picking up|tackling|handling)) (?:this|it|the issue)\b|"
+    r"\bi(?:'d| would) be happy to (?:work on|take|pick up|tackle|handle) (?:this|it|the issue)\b|"
+    r"\b(?:please )?assign me\b|"
     r"\b(?:please )?assign (?:this |it )?(?:issue )?to me\b|"
     r"\blet me (?:work on|take|handle|try)\b",
     re.IGNORECASE,
@@ -396,6 +400,12 @@ def detect_policy(files: dict[str, str]) -> dict[str, Any]:
         if rank[level] > rank[ai]:
             ai, ai_file = level, path
     return {"ai": ai, "ai_file": ai_file, "cla": cla, "dco": dco, "files": sorted(p for p, t in files.items() if t)}
+
+
+def contributing_guide(files: list[str] | None) -> str | None:
+    """Choose a detected contributing guide in configured lookup order."""
+    found = set(files or [])
+    return next((path for path in CONTRIBUTING_FILES if path in found), None)
 
 
 def topic_buckets(topics: list[str], config: dict[str, Any]) -> list[str]:
@@ -496,6 +506,7 @@ def fetch(github: GitHub, config: dict[str, Any], *, force: bool = False) -> dic
                 "topics": topics,
                 "buckets": topic_buckets(topics, config),
                 "policy": {key: policy.get(key) for key in ("ai", "ai_file", "cla", "dco")},
+                "contributing": contributing_guide(policy.get("files")),
                 "open_count": len(available),
             }
         rate = data.get("rateLimit") or {}
@@ -531,13 +542,28 @@ AI_NOTE = {
 
 def md_escape(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
-    return text.replace("\\", "\\\\").replace("|", "\\|").replace("<", "&lt;").replace(">", "&gt;").replace("`", "'")
+    return (
+        text.replace("\\", "\\\\")
+        .replace("|", "\\|")
+        .replace("[", "\\[")
+        .replace("]", "\\]")
+        .replace("<", "&lt;")
+        .replace(">", "&gt;")
+        .replace("`", "'")
+    )
 
 
 def format_stars(stars: int) -> str:
-    if stars >= 1000:
-        return f"{stars / 1000:.1f}k".replace(".0k", "k")
-    return str(stars)
+    # Round first, then check the unit again, so 999_950 shows as 1M rather than 1000k.
+    units = ((1000, "k"), (1_000_000, "M"), (1_000_000_000, "B"))
+    if stars < 1000:
+        return str(stars)
+    i = max(n for n, (limit, _) in enumerate(units) if stars >= limit)
+    value = round(stars / units[i][0], 1)
+    if value >= 1000 and i + 1 < len(units):
+        i += 1
+        value = round(stars / units[i][0], 1)
+    return f"{value:.1f}".removesuffix(".0") + units[i][1]
 
 
 def notes_for(repo: dict[str, Any]) -> str:
@@ -549,6 +575,9 @@ def notes_for(repo: dict[str, Any]) -> str:
         notes.append("✍️ CLA")
     if policy.get("dco"):
         notes.append("🔏 DCO")
+    contributing = repo.get("contributing")
+    if contributing and repo.get("url"):
+        notes.append(f"[📘 guide]({repo['url']}/blob/HEAD/{contributing})")
     return " · ".join(notes)
 
 
@@ -559,7 +588,8 @@ def issue_table(issues: list[dict[str, Any]], repositories: dict[str, Any], limi
     ]
     for issue in issues[:limit]:
         repo = repositories[issue["repo"]]
-        title = md_escape(issue["title"])[:110]
+        # Cut before escaping: slicing "\\|" or "&lt;" in half breaks the link markup.
+        title = md_escape(" ".join(issue["title"].split())[:110])
         comments = f" 💬 {issue['comments']}" if issue["comments"] else ""
         lines.append(
             f"| [{title}]({issue['url']}){comments} "
@@ -583,7 +613,7 @@ def page_header(title: str, subtitle: str, generated_at: str, extra: str = "") -
         "> Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). "
         "New here? Start with the [guide](../../guide/README.md).\n\n"
         "**Legend:** 🟢 beginner label · 🟡 help wanted · 💬 comments · ⚠️ AI restricted · 🤖 disclose AI use · "
-        "📄 AI policy · ✍️ CLA required · 🔏 DCO sign-off. Notes are detected automatically; "
+        "📄 AI policy · ✍️ CLA required · 🔏 DCO sign-off · 📘 contributing guide. Notes are detected automatically; "
         "[how to read them](../../guide/06-rules-before-you-start.md).\n\n"
     )
 
@@ -959,7 +989,7 @@ def update_readme_stats(
         "<!-- RADAR:STATS:END -->"
     )
     text = readme.read_text(encoding="utf-8")
-    updated = re.sub(r"<!-- RADAR:STATS:START -->.*?<!-- RADAR:STATS:END -->", block, text, flags=re.DOTALL)
+    updated = re.sub(r"<!-- RADAR:STATS:START -->.*?<!-- RADAR:STATS:END -->", lambda _: block, text, flags=re.DOTALL)
     readme.write_text(updated, encoding="utf-8")
 
 

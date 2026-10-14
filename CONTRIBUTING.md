@@ -4,11 +4,20 @@ Thanks for helping people find their first open source contribution. Every kind 
 
 ## Ways to help
 
-- **Star the repository.** If the radar helped you, a star is the quickest way to help other newcomers find it.
-- **Guide and quickstarts.** Fix mistakes, clarify steps, add missing tips, or add a quickstart for a language in [`languages/`](languages/README.md).
-- **Data quality.** Add label variants, languages or topic keywords in [`scripts/config.toml`](scripts/config.toml), or report a project whose AI policy, CLA or DCO requirement was detected incorrectly.
-- **Website.** Improve accessibility, performance or usability of [`site/`](site/).
-- **Pipeline.** Improve [`scripts/radar.py`](scripts/radar.py). Pure logic changes need a test in [`scripts/test_radar.py`](scripts/test_radar.py).
+Looking for something to pick up? These filters show what's open right now:
+
+- [Good first issues](https://github.com/TanbirRamim/open-source-radar/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+no%3Aassignee): small, well scoped, a good place to start
+- [Help wanted](https://github.com/TanbirRamim/open-source-radar/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+no%3Aassignee): bigger pieces of work
+- By area: [guide](https://github.com/TanbirRamim/open-source-radar/labels/guide), [translation](https://github.com/TanbirRamim/open-source-radar/labels/translation), [website](https://github.com/TanbirRamim/open-source-radar/labels/website), [pipeline](https://github.com/TanbirRamim/open-source-radar/labels/pipeline), [data](https://github.com/TanbirRamim/open-source-radar/labels/data)
+
+Kinds of contributions that are welcome:
+
+- **Code.** Improve [`scripts/radar.py`](scripts/radar.py) or the website in [`site/`](site/) (accessibility, mobile, filters). Pure logic changes need a test in [`scripts/test_radar.py`](scripts/test_radar.py), and tests for functions that have none are welcome too.
+- **Guides.** Fix mistakes, clarify steps, add a chapter to [`guide/`](guide/README.md), or add a quickstart for a language in [`languages/`](languages/README.md).
+- **Translations.** Translate a guide chapter into a language you know well. See [`guide/es/`](guide/es/README.md) and [`guide/hi/`](guide/hi/README.md) for how existing ones are laid out.
+- **Data quality.** Add label variants, languages or topic keywords in [`scripts/config.toml`](scripts/config.toml), or report a project whose AI policy, CLA or DCO requirement was detected wrong.
+- **Report a stale or wrong listing.** If a listed issue is already taken, closed or not beginner friendly, [open a wrong listing report](https://github.com/TanbirRamim/open-source-radar/issues/new?template=wrong-listing.yml). It takes a minute and saves the next person from a dead end.
+- **Star the repository.** If the radar helped you, a star helps other newcomers find it.
 
 ## Do not edit generated files
 
@@ -27,11 +36,21 @@ Maintainers who would rather not have their project listed can open an issue, an
 
 ## Making a change
 
-1. Comment on the issue you want to work on and wait for a reply saying it's yours. GitHub only lets me assign collaborators, so that reply is the claim, and the issue gets the `claimed` label. Please skip issues that are already claimed. If a claim sees no pull request or update for 7 days, it's free again. A pull request for an issue someone else claimed first will wait until it's sorted out with them.
+1. Pick an issue and comment `/claim` on it. A bot assigns it to you right away, so there's nothing to wait for. Issues that already have an assignee are taken. You can hold 2 issues at a time, `/unclaim` hands one back, and a claim with no pull request or update for 7 days frees up automatically.
+
+   Small fixes (a typo, a broken link, a one-line bug) don't need an issue or a claim at all, just open the pull request.
 2. Fork the repository and create a branch.
 3. For pipeline changes, run the tests and linter: `python3 -m unittest discover scripts` (Python 3.11+) and `ruff check scripts && ruff format --check scripts`.
 4. To try the pipeline on a small scale: `GITHUB_TOKEN=$(gh auth token) python3 scripts/radar.py all --languages "Rust"`, then `python3 -m http.server -d site 8000`. Do not commit the generated data from a partial run.
-5. Keep pull requests focused on one change, and describe what changed and why in a few sentences.
+5. Keep pull requests focused on one change, and describe what changed and why in a few sentences. Put `Closes #123` in the description so the issue closes when it's merged.
+6. Draft pull requests are welcome if you want early feedback. Mark it ready for review when you're done.
+
+## What happens after you open a pull request
+
+- CI runs the tests, the linter and a link check. If your GitHub account is brand new, a maintainer has to approve the first run, so the checks may sit at "waiting" for a little while.
+- You'll get a review, usually within a day. Reviews here are friendly: expect a few suggestions, and sometimes a maintainer pushes a small follow-up commit to your branch (a test or an edge case) before merging, so pull before you push again.
+- Pull requests are squash-merged, and you're credited in the README's Contributors list.
+- If two pull requests fix the same issue, the one from the person assigned to the issue is reviewed first. Without an assignee, the first one that's ready and passing gets reviewed first.
 
 ## Style
 
