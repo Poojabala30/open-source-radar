@@ -22,5 +22,5 @@ Short, practical notes on how projects in each language are usually built, teste
 | [Dart and Flutter](dart.md) | Dart SDK / Flutter SDK | [issues](../issues/by-language/dart.md) |
 | [OCaml](ocaml.md) | opam + dune | [issues](../issues/by-language/ocaml.md) |
 | [Elixir](elixir.md) | Elixir + Mix (Erlang/OTP) | [issues](../issues/by-language/elixir.md) |
-
+| Julia | Julia + Pkg | [issues](../issues/by-language/julia.md) |
 Missing a language, or a command is out of date? [Open a pull request](../CONTRIBUTING.md), these pages are meant to be improved by the community.
